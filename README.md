@@ -32,6 +32,6 @@ Other commands: `npm test`, `npm run lint`, `npm run format`, `npm run build`.
 
 ## Keeping data fresh
 
-GitHub Actions (`.github/workflows/deploy.yml`) runs `npm run sync` every Monday at 04:00 UTC, commits changes to `public/data/partners.json` and deploys the site to GitHub Pages. To run it by hand: Actions → Sync and deploy → Run workflow.
+GitHub Actions (`.github/workflows/deploy.yml`) runs `npm run sync` every Friday at 04:00 UTC, commits changes to `public/data/partners.json` and deploys the site to GitHub Pages. To run it by hand: Actions → Sync and deploy → Run workflow.
 
 Data is published under CC BY-NC-ND 3.0 PL by the Ministry of Family, Labour and Social Policy of Poland.
