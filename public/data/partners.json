@@ -1,5 +1,5 @@
 {
- "syncedAt": "2026-11-06T11:44:18.860Z",
+ "syncedAt": "2026-11-13T11:45:18.316Z",
  "source": "https://kdr-api.mrpips.gov.pl",
  "center": {
   "lat": 51.10998046,
@@ -10655,6 +10655,69 @@
    "since": "2025-04-10"
   },
   {
+   "id": "11261023",
+   "entityId": "312670",
+   "name": "Circle K",
+   "entityName": "Circle K Polska Sp. z o.o.",
+   "logoId": "1408655",
+   "categories": [
+    {
+     "name": "Transport",
+     "subcategories": [
+      "Stacje paliw"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Karkonoska 52",
+    "postalCode": "53-015",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.06259,
+    "lng": 17.0008
+   },
+   "phone": "22 255 22 55",
+   "email": "BOKEXTRA@CIRCLEKEUROPE.COM",
+   "website": "https://www.circlek.pl",
+   "discounts": [
+    {
+     "text": "• rabat w wysokości 20% na wybraną ofertę gastronomiczną (produkty z kawiarki, ciastka przygotowywane na stacji oraz produkty hot food)",
+     "from": "2023-08-21",
+     "to": null,
+     "kind": "percent",
+     "value": 20
+    },
+    {
+     "text": "• rabat w wysokości 8 gr/l na paliwa bazowe (słownie: osiem\r groszy za zakup jednego litra paliwa) tj. benzyna miles® 95; miles® diesel; gaz\r LPG SupraGas; Rabaty z KDR nie będą się łączyły z innymi promocjami jakie są\r przygotowywane i wprowadzane przez Circle K. Informacja o tym czy promocje się\r łączą będą podawane w regulaminach.",
+     "from": "2023-08-21",
+     "to": null,
+     "kind": "other",
+     "value": null
+    },
+    {
+     "text": "• rabat w wysokości 15 gr/l paliwa premium (słownie\r piętnaście groszy za zakup 1 litra paliwa) tj. benzyna milesPLUS® 95 ;\r milesPLUS® diesel ; milesPLUS®zimowy); Rabaty z KDR nie będą się łączyły z\r innymi promocjami jakie są przygotowywane i wprowadzane przez Circle K.\r Informacja o tym czy promocje się łączą będą podawane w regulaminach.",
+     "from": "2023-08-21",
+     "to": null,
+     "kind": "other",
+     "value": null
+    },
+    {
+     "text": "• rabat w wysokości 25%\r na zakup usługi myjni (program Standard; program Premium; program Premium Super\r Sezon)",
+     "from": "2023-08-21",
+     "to": null,
+     "kind": "percent",
+     "value": 25
+    }
+   ],
+   "bestDiscount": {
+    "kind": "percent",
+    "value": 25
+   },
+   "since": "2023-08-20"
+  },
+  {
    "id": "11261022",
    "entityId": "312670",
    "name": "Circle K",
@@ -10803,69 +10866,6 @@
    "location": {
     "lat": 51.11209,
     "lng": 17.00629
-   },
-   "phone": "22 255 22 55",
-   "email": "BOKEXTRA@CIRCLEKEUROPE.COM",
-   "website": "https://www.circlek.pl",
-   "discounts": [
-    {
-     "text": "• rabat w wysokości 20% na wybraną ofertę gastronomiczną (produkty z kawiarki, ciastka przygotowywane na stacji oraz produkty hot food)",
-     "from": "2023-08-21",
-     "to": null,
-     "kind": "percent",
-     "value": 20
-    },
-    {
-     "text": "• rabat w wysokości 8 gr/l na paliwa bazowe (słownie: osiem\r groszy za zakup jednego litra paliwa) tj. benzyna miles® 95; miles® diesel; gaz\r LPG SupraGas; Rabaty z KDR nie będą się łączyły z innymi promocjami jakie są\r przygotowywane i wprowadzane przez Circle K. Informacja o tym czy promocje się\r łączą będą podawane w regulaminach.",
-     "from": "2023-08-21",
-     "to": null,
-     "kind": "other",
-     "value": null
-    },
-    {
-     "text": "• rabat w wysokości 15 gr/l paliwa premium (słownie\r piętnaście groszy za zakup 1 litra paliwa) tj. benzyna milesPLUS® 95 ;\r milesPLUS® diesel ; milesPLUS®zimowy); Rabaty z KDR nie będą się łączyły z\r innymi promocjami jakie są przygotowywane i wprowadzane przez Circle K.\r Informacja o tym czy promocje się łączą będą podawane w regulaminach.",
-     "from": "2023-08-21",
-     "to": null,
-     "kind": "other",
-     "value": null
-    },
-    {
-     "text": "• rabat w wysokości 25%\r na zakup usługi myjni (program Standard; program Premium; program Premium Super\r Sezon)",
-     "from": "2023-08-21",
-     "to": null,
-     "kind": "percent",
-     "value": 25
-    }
-   ],
-   "bestDiscount": {
-    "kind": "percent",
-    "value": 25
-   },
-   "since": "2023-08-20"
-  },
-  {
-   "id": "11261023",
-   "entityId": "312670",
-   "name": "Circle K",
-   "entityName": "Circle K Polska Sp. z o.o.",
-   "logoId": "1408655",
-   "categories": [
-    {
-     "name": "Transport",
-     "subcategories": [
-      "Stacje paliw"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Karkonoska 52",
-    "postalCode": "53-015",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.06259,
-    "lng": 17.0008
    },
    "phone": "22 255 22 55",
    "email": "BOKEXTRA@CIRCLEKEUROPE.COM",
@@ -12316,6 +12316,156 @@
    "since": "2020-04-26"
   },
   {
+   "id": "11153304",
+   "entityId": "304425",
+   "name": "Deichmann-Obuwie Sp.  z o.o.",
+   "entityName": "Deichmann-Obuwie Sp. z o.o.",
+   "logoId": "1311345",
+   "categories": [
+    {
+     "name": "Odzież i obuwie",
+     "subcategories": [
+      "Dla dorosłych",
+      "Dla dzieci"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Legnicka 58",
+    "postalCode": "54-204",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.11862,
+    "lng": 16.9883
+   },
+   "phone": "800200202",
+   "email": "CUSTOMER-SERVICE-DOP@DEICHMANN.COM",
+   "website": "https://www.deichmann.com",
+   "discounts": [
+    {
+     "text": "1).10% rabatu na nieprzecenione obuwie dziecięce i plecaki dziecięce (obuwie dziecięce w sieci Deichmann standardowo jest do rozmiaru 35). W części sklepu, gdzie znajduje się obuwie dziecięce znajduje się również część z obuwiem młodzieżowym do rozmiaru 41. Wszystkie modele z działu dziecięcego i młodzieżowego są objęte rabatem 10%.\r 2). 10% rabatu na markowe obuwie sportowe dla całej rodziny (marki Adidas, Nike, Puma, Reebok, Fila bez względu na rozmiar obuwia). Pozostałe obuwie znajdujące się bezpośrednio w dziale damskim (rozmiar 36-44) i męskim (rozmiar 40-48) nie jest objęte rabatem.",
+     "from": "2018-06-01",
+     "to": null,
+     "kind": "percent",
+     "value": 10
+    },
+    {
+     "text": "1) 10% rabatu na wszystkie modele z działu dziecięcego i młodzieżowego w sklepie internetowym. \r Posiadacz KDR chcący skorzystać z rabatu w sklepie internetowym będzie musiał skontaktować się mailowo z infolinią firmy Deichmann w celu podania nr karty. Po zweryfikowaniu ważności karty klient otrzyma jednorazowy kod, który obniży wartość wyżej wymienionych kategorii produktów o 10%.",
+     "from": "2018-06-01",
+     "to": null,
+     "kind": "percent",
+     "value": 10
+    }
+   ],
+   "bestDiscount": {
+    "kind": "percent",
+    "value": 10
+   },
+   "since": "2018-05-31"
+  },
+  {
+   "id": "11153331",
+   "entityId": "304425",
+   "name": "Deichmann-Obuwie Sp.  z o.o.",
+   "entityName": "Deichmann-Obuwie Sp. z o.o.",
+   "logoId": "1311372",
+   "categories": [
+    {
+     "name": "Odzież i obuwie",
+     "subcategories": [
+      "Dla dorosłych",
+      "Dla dzieci"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Czekoladowa 9",
+    "postalCode": "55-040",
+    "city": "Bielany Wrocławskie",
+    "district": "wrocławski"
+   },
+   "location": {
+    "lat": 51.04848,
+    "lng": 16.96265
+   },
+   "phone": "800200202",
+   "email": "CUSTOMER-SERVICE-DOP@DEICHMANN.COM",
+   "website": "https://www.deichmann.com",
+   "discounts": [
+    {
+     "text": "1).10% rabatu na nieprzecenione obuwie dziecięce i plecaki dziecięce (obuwie dziecięce w sieci Deichmann standardowo jest do rozmiaru 35). W części sklepu, gdzie znajduje się obuwie dziecięce znajduje się również część z obuwiem młodzieżowym do rozmiaru 41. Wszystkie modele z działu dziecięcego i młodzieżowego są objęte rabatem 10%.\r 2). 10% rabatu na markowe obuwie sportowe dla całej rodziny (marki Adidas, Nike, Puma, Reebok, Fila bez względu na rozmiar obuwia). Pozostałe obuwie znajdujące się bezpośrednio w dziale damskim (rozmiar 36-44) i męskim (rozmiar 40-48) nie jest objęte rabatem.",
+     "from": "2018-06-01",
+     "to": null,
+     "kind": "percent",
+     "value": 10
+    },
+    {
+     "text": "1) 10% rabatu na wszystkie modele z działu dziecięcego i młodzieżowego w sklepie internetowym. \r Posiadacz KDR chcący skorzystać z rabatu w sklepie internetowym będzie musiał skontaktować się mailowo z infolinią firmy Deichmann w celu podania nr karty. Po zweryfikowaniu ważności karty klient otrzyma jednorazowy kod, który obniży wartość wyżej wymienionych kategorii produktów o 10%.",
+     "from": "2018-06-01",
+     "to": null,
+     "kind": "percent",
+     "value": 10
+    }
+   ],
+   "bestDiscount": {
+    "kind": "percent",
+    "value": 10
+   },
+   "since": "2018-05-31"
+  },
+  {
+   "id": "11153356",
+   "entityId": "304425",
+   "name": "Deichmann-Obuwie Sp.  z o.o.",
+   "entityName": "Deichmann-Obuwie Sp. z o.o.",
+   "logoId": "1311397",
+   "categories": [
+    {
+     "name": "Odzież i obuwie",
+     "subcategories": [
+      "Dla dorosłych",
+      "Dla dzieci"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Sucha 1",
+    "postalCode": "50-086",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.09728,
+    "lng": 17.03401
+   },
+   "phone": "800200202",
+   "email": "CUSTOMER-SERVICE-DOP@DEICHMANN.COM",
+   "website": "https://www.deichmann.com",
+   "discounts": [
+    {
+     "text": "1).10% rabatu na nieprzecenione obuwie dziecięce i plecaki dziecięce (obuwie dziecięce w sieci Deichmann standardowo jest do rozmiaru 35). W części sklepu, gdzie znajduje się obuwie dziecięce znajduje się również część z obuwiem młodzieżowym do rozmiaru 41. Wszystkie modele z działu dziecięcego i młodzieżowego są objęte rabatem 10%.\r 2). 10% rabatu na markowe obuwie sportowe dla całej rodziny (marki Adidas, Nike, Puma, Reebok, Fila bez względu na rozmiar obuwia). Pozostałe obuwie znajdujące się bezpośrednio w dziale damskim (rozmiar 36-44) i męskim (rozmiar 40-48) nie jest objęte rabatem.",
+     "from": "2018-06-01",
+     "to": null,
+     "kind": "percent",
+     "value": 10
+    },
+    {
+     "text": "1) 10% rabatu na wszystkie modele z działu dziecięcego i młodzieżowego w sklepie internetowym. \r Posiadacz KDR chcący skorzystać z rabatu w sklepie internetowym będzie musiał skontaktować się mailowo z infolinią firmy Deichmann w celu podania nr karty. Po zweryfikowaniu ważności karty klient otrzyma jednorazowy kod, który obniży wartość wyżej wymienionych kategorii produktów o 10%.",
+     "from": "2018-06-01",
+     "to": null,
+     "kind": "percent",
+     "value": 10
+    }
+   ],
+   "bestDiscount": {
+    "kind": "percent",
+    "value": 10
+   },
+   "since": "2018-05-31"
+  },
+  {
    "id": "11153170",
    "entityId": "304425",
    "name": "Deichmann-Obuwie Sp.  z o.o.",
@@ -12539,156 +12689,6 @@
    "location": {
     "lat": 51.14053,
     "lng": 17.08687
-   },
-   "phone": "800200202",
-   "email": "CUSTOMER-SERVICE-DOP@DEICHMANN.COM",
-   "website": "https://www.deichmann.com",
-   "discounts": [
-    {
-     "text": "1).10% rabatu na nieprzecenione obuwie dziecięce i plecaki dziecięce (obuwie dziecięce w sieci Deichmann standardowo jest do rozmiaru 35). W części sklepu, gdzie znajduje się obuwie dziecięce znajduje się również część z obuwiem młodzieżowym do rozmiaru 41. Wszystkie modele z działu dziecięcego i młodzieżowego są objęte rabatem 10%.\r 2). 10% rabatu na markowe obuwie sportowe dla całej rodziny (marki Adidas, Nike, Puma, Reebok, Fila bez względu na rozmiar obuwia). Pozostałe obuwie znajdujące się bezpośrednio w dziale damskim (rozmiar 36-44) i męskim (rozmiar 40-48) nie jest objęte rabatem.",
-     "from": "2018-06-01",
-     "to": null,
-     "kind": "percent",
-     "value": 10
-    },
-    {
-     "text": "1) 10% rabatu na wszystkie modele z działu dziecięcego i młodzieżowego w sklepie internetowym. \r Posiadacz KDR chcący skorzystać z rabatu w sklepie internetowym będzie musiał skontaktować się mailowo z infolinią firmy Deichmann w celu podania nr karty. Po zweryfikowaniu ważności karty klient otrzyma jednorazowy kod, który obniży wartość wyżej wymienionych kategorii produktów o 10%.",
-     "from": "2018-06-01",
-     "to": null,
-     "kind": "percent",
-     "value": 10
-    }
-   ],
-   "bestDiscount": {
-    "kind": "percent",
-    "value": 10
-   },
-   "since": "2018-05-31"
-  },
-  {
-   "id": "11153304",
-   "entityId": "304425",
-   "name": "Deichmann-Obuwie Sp.  z o.o.",
-   "entityName": "Deichmann-Obuwie Sp. z o.o.",
-   "logoId": "1311345",
-   "categories": [
-    {
-     "name": "Odzież i obuwie",
-     "subcategories": [
-      "Dla dorosłych",
-      "Dla dzieci"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Legnicka 58",
-    "postalCode": "54-204",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.11862,
-    "lng": 16.9883
-   },
-   "phone": "800200202",
-   "email": "CUSTOMER-SERVICE-DOP@DEICHMANN.COM",
-   "website": "https://www.deichmann.com",
-   "discounts": [
-    {
-     "text": "1).10% rabatu na nieprzecenione obuwie dziecięce i plecaki dziecięce (obuwie dziecięce w sieci Deichmann standardowo jest do rozmiaru 35). W części sklepu, gdzie znajduje się obuwie dziecięce znajduje się również część z obuwiem młodzieżowym do rozmiaru 41. Wszystkie modele z działu dziecięcego i młodzieżowego są objęte rabatem 10%.\r 2). 10% rabatu na markowe obuwie sportowe dla całej rodziny (marki Adidas, Nike, Puma, Reebok, Fila bez względu na rozmiar obuwia). Pozostałe obuwie znajdujące się bezpośrednio w dziale damskim (rozmiar 36-44) i męskim (rozmiar 40-48) nie jest objęte rabatem.",
-     "from": "2018-06-01",
-     "to": null,
-     "kind": "percent",
-     "value": 10
-    },
-    {
-     "text": "1) 10% rabatu na wszystkie modele z działu dziecięcego i młodzieżowego w sklepie internetowym. \r Posiadacz KDR chcący skorzystać z rabatu w sklepie internetowym będzie musiał skontaktować się mailowo z infolinią firmy Deichmann w celu podania nr karty. Po zweryfikowaniu ważności karty klient otrzyma jednorazowy kod, który obniży wartość wyżej wymienionych kategorii produktów o 10%.",
-     "from": "2018-06-01",
-     "to": null,
-     "kind": "percent",
-     "value": 10
-    }
-   ],
-   "bestDiscount": {
-    "kind": "percent",
-    "value": 10
-   },
-   "since": "2018-05-31"
-  },
-  {
-   "id": "11153331",
-   "entityId": "304425",
-   "name": "Deichmann-Obuwie Sp.  z o.o.",
-   "entityName": "Deichmann-Obuwie Sp. z o.o.",
-   "logoId": "1311372",
-   "categories": [
-    {
-     "name": "Odzież i obuwie",
-     "subcategories": [
-      "Dla dorosłych",
-      "Dla dzieci"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Czekoladowa 9",
-    "postalCode": "55-040",
-    "city": "Bielany Wrocławskie",
-    "district": "wrocławski"
-   },
-   "location": {
-    "lat": 51.04848,
-    "lng": 16.96265
-   },
-   "phone": "800200202",
-   "email": "CUSTOMER-SERVICE-DOP@DEICHMANN.COM",
-   "website": "https://www.deichmann.com",
-   "discounts": [
-    {
-     "text": "1).10% rabatu na nieprzecenione obuwie dziecięce i plecaki dziecięce (obuwie dziecięce w sieci Deichmann standardowo jest do rozmiaru 35). W części sklepu, gdzie znajduje się obuwie dziecięce znajduje się również część z obuwiem młodzieżowym do rozmiaru 41. Wszystkie modele z działu dziecięcego i młodzieżowego są objęte rabatem 10%.\r 2). 10% rabatu na markowe obuwie sportowe dla całej rodziny (marki Adidas, Nike, Puma, Reebok, Fila bez względu na rozmiar obuwia). Pozostałe obuwie znajdujące się bezpośrednio w dziale damskim (rozmiar 36-44) i męskim (rozmiar 40-48) nie jest objęte rabatem.",
-     "from": "2018-06-01",
-     "to": null,
-     "kind": "percent",
-     "value": 10
-    },
-    {
-     "text": "1) 10% rabatu na wszystkie modele z działu dziecięcego i młodzieżowego w sklepie internetowym. \r Posiadacz KDR chcący skorzystać z rabatu w sklepie internetowym będzie musiał skontaktować się mailowo z infolinią firmy Deichmann w celu podania nr karty. Po zweryfikowaniu ważności karty klient otrzyma jednorazowy kod, który obniży wartość wyżej wymienionych kategorii produktów o 10%.",
-     "from": "2018-06-01",
-     "to": null,
-     "kind": "percent",
-     "value": 10
-    }
-   ],
-   "bestDiscount": {
-    "kind": "percent",
-    "value": 10
-   },
-   "since": "2018-05-31"
-  },
-  {
-   "id": "11153356",
-   "entityId": "304425",
-   "name": "Deichmann-Obuwie Sp.  z o.o.",
-   "entityName": "Deichmann-Obuwie Sp. z o.o.",
-   "logoId": "1311397",
-   "categories": [
-    {
-     "name": "Odzież i obuwie",
-     "subcategories": [
-      "Dla dorosłych",
-      "Dla dzieci"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Sucha 1",
-    "postalCode": "50-086",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.09728,
-    "lng": 17.03401
    },
    "phone": "800200202",
    "email": "CUSTOMER-SERVICE-DOP@DEICHMANN.COM",
@@ -17586,48 +17586,6 @@
    "since": "2025-03-05"
   },
   {
-   "id": "5476974",
-   "entityId": "149590",
-   "name": "Firma Słomiński od 1904 s.c. Z.Słomińska- Fabiś, D.Słomiński-Fabiś, R.Olech",
-   "entityName": "Firma Słomiński od 1904 Spółka Cywilna Zdzisława Słomińska-Fabiś, Dominik Słomiński-Fabiś, Ryszard Olech",
-   "logoId": "443917",
-   "categories": [
-    {
-     "name": "Żywność",
-     "subcategories": [
-      "Sklepy"
-     ]
-    }
-   ],
-   "address": {
-    "street": "ul. Sielska 3-9A",
-    "postalCode": "50-144",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.141909,
-    "lng": 16.958797
-   },
-   "phone": "691-401-940",
-   "email": "gracyanslominski@gmail.com",
-   "website": "https://www.slominski.bt.pl",
-   "discounts": [
-    {
-     "text": "Rabat w wysokości 7% na zakup towarów w sklepie firmowym",
-     "from": "2015-06-09",
-     "to": null,
-     "kind": "percent",
-     "value": 7
-    }
-   ],
-   "bestDiscount": {
-    "kind": "percent",
-    "value": 7
-   },
-   "since": "2015-06-09"
-  },
-  {
    "id": "5467869",
    "entityId": "149590",
    "name": "Firma Słomiński od 1904 s.c. Z.Słomińska- Fabiś, D.Słomiński-Fabiś, R.Olech",
@@ -17694,6 +17652,48 @@
     "lng": 16.9991
    },
    "phone": "71/ 780-48-72",
+   "email": "gracyanslominski@gmail.com",
+   "website": "https://www.slominski.bt.pl",
+   "discounts": [
+    {
+     "text": "Rabat w wysokości 7% na zakup towarów w sklepie firmowym",
+     "from": "2015-06-09",
+     "to": null,
+     "kind": "percent",
+     "value": 7
+    }
+   ],
+   "bestDiscount": {
+    "kind": "percent",
+    "value": 7
+   },
+   "since": "2015-06-09"
+  },
+  {
+   "id": "5476974",
+   "entityId": "149590",
+   "name": "Firma Słomiński od 1904 s.c. Z.Słomińska- Fabiś, D.Słomiński-Fabiś, R.Olech",
+   "entityName": "Firma Słomiński od 1904 Spółka Cywilna Zdzisława Słomińska-Fabiś, Dominik Słomiński-Fabiś, Ryszard Olech",
+   "logoId": "443917",
+   "categories": [
+    {
+     "name": "Żywność",
+     "subcategories": [
+      "Sklepy"
+     ]
+    }
+   ],
+   "address": {
+    "street": "ul. Sielska 3-9A",
+    "postalCode": "50-144",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.141909,
+    "lng": 16.958797
+   },
+   "phone": "691-401-940",
    "email": "gracyanslominski@gmail.com",
    "website": "https://www.slominski.bt.pl",
    "discounts": [
@@ -26808,6 +26808,48 @@
    "since": "2014-10-31"
   },
   {
+   "id": "11208609",
+   "entityId": "307352",
+   "name": "LUX MED Stomatologia",
+   "entityName": "LUX MED.",
+   "logoId": "1358936",
+   "categories": [
+    {
+     "name": "Zdrowie",
+     "subcategories": [
+      "Usługi medyczne"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Swobodna 3",
+    "postalCode": "50-088",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.09838,
+    "lng": 17.03115
+   },
+   "phone": "224600700",
+   "email": null,
+   "website": "https://www.luxmed.pl",
+   "discounts": [
+    {
+     "text": "15 proc. zniżki przy zakupie usługi w placówkach LUX MED, MEDYCYNA RODZINNA, EURODENTAL, LUX MED Stomatologia, PROFEMED, LUX MED Diagnostyka, HARMONIA",
+     "from": "2021-07-30",
+     "to": null,
+     "kind": "percent",
+     "value": 15
+    }
+   ],
+   "bestDiscount": {
+    "kind": "percent",
+    "value": 15
+   },
+   "since": "2014-10-31"
+  },
+  {
    "id": "11208661",
    "entityId": "307352",
    "name": "LUX MED Stomatologia",
@@ -26914,48 +26956,6 @@
    "location": {
     "lat": 51.1037,
     "lng": 17.03109
-   },
-   "phone": "224600700",
-   "email": null,
-   "website": "https://www.luxmed.pl",
-   "discounts": [
-    {
-     "text": "15 proc. zniżki przy zakupie usługi w placówkach LUX MED, MEDYCYNA RODZINNA, EURODENTAL, LUX MED Stomatologia, PROFEMED, LUX MED Diagnostyka, HARMONIA",
-     "from": "2021-07-30",
-     "to": null,
-     "kind": "percent",
-     "value": 15
-    }
-   ],
-   "bestDiscount": {
-    "kind": "percent",
-    "value": 15
-   },
-   "since": "2014-10-31"
-  },
-  {
-   "id": "11208609",
-   "entityId": "307352",
-   "name": "LUX MED Stomatologia",
-   "entityName": "LUX MED.",
-   "logoId": "1358936",
-   "categories": [
-    {
-     "name": "Zdrowie",
-     "subcategories": [
-      "Usługi medyczne"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Swobodna 3",
-    "postalCode": "50-088",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.09838,
-    "lng": 17.03115
    },
    "phone": "224600700",
    "email": null,
@@ -32267,48 +32267,6 @@
    "since": "2016-09-07"
   },
   {
-   "id": "11190096",
-   "entityId": "306112",
-   "name": "Salon Orange",
-   "entityName": "Orange Polska S.A.",
-   "logoId": "1345616",
-   "categories": [
-    {
-     "name": "Łączność",
-     "subcategories": [
-      "Telekomunikacja"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Gen. Józefa Bema 2",
-    "postalCode": "50-265",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.11809,
-    "lng": 17.04139
-   },
-   "phone": "801234567",
-   "email": null,
-   "website": "https://WWW.ORANGE.PL",
-   "discounts": [
-    {
-     "text": "Rabat 25 zł/mies. na abonament na każdą 4 i 5 kartę SIM w Planie Mobilnym - szczegóły oferty na stronie https://www.orange.pl/lp/karta-duzej-rodziny. Oferta : Plan Mobilny 45 – 45 zł/mies. pierwsza karta SIM, 25 zł/mies. - 2 i 3 karta SIM, 0 zł/mies. – 4 i 5 karta SIM. Dla każdej karty SIM – 7 GB Internet w telefonie, bez limitu Rozmowy w kraju i w roamingu w UE, bez limitu SMS/MMS w kraju i w roamingu w UE, Dodatkowe 3 GB od 2 karty za łączenie usług w Orange, Cena karty SIM za osobę przy skompletowaniu 5 numerów 19zł/mies. Plan Mobilny 55 – 55 zł/mies. pierwsza karta SIM, 35 zł/mies. - 2 i 3 karta SIM, 10 zł/mies. – 4 i 5 karta SIM. Dla każdej karty SIM - bez limitu GB Internet w telefonie, bez limitu Rozmowy w kraju i w roamingu w UE, bez limitu SMS/MMS w kraju i w roamingu w UE, Dodatkowe 3 GB od 2 karty za łączenie usług w Orange, Cena karty SIM za osobę przy skompletowaniu 5 numerów 29zł/mies. Plan Mobilny 75 – 75 zł/mies. pierwsza karta SIM, 55 zł/mies.- 2 i 3 karta SIM, 20 zł/mies. – 4 i 5 karta SIM. Dla każdej karty SIM - bez limitu GB Internet w telefonie, bez limitu Rozmowy w kraju i w roamingu w UE, bez limitu SMS/MMS w kraju i w roamingu w UE, Dodatkowe 3 GB od 2 karty za łączenie usług w Orange, Cena karty SIM za osobę przy skompletowaniu 5 numerów 45zł/mies.",
-     "from": "2016-09-08",
-     "to": null,
-     "kind": "amount",
-     "value": 25
-    }
-   ],
-   "bestDiscount": {
-    "kind": "amount",
-    "value": 25
-   },
-   "since": "2016-09-07"
-  },
-  {
    "id": "11189687",
    "entityId": "306112",
    "name": "Salon Orange",
@@ -32331,6 +32289,48 @@
    "location": {
     "lat": 51.10958,
     "lng": 17.02628
+   },
+   "phone": "801234567",
+   "email": null,
+   "website": "https://WWW.ORANGE.PL",
+   "discounts": [
+    {
+     "text": "Rabat 25 zł/mies. na abonament na każdą 4 i 5 kartę SIM w Planie Mobilnym - szczegóły oferty na stronie https://www.orange.pl/lp/karta-duzej-rodziny. Oferta : Plan Mobilny 45 – 45 zł/mies. pierwsza karta SIM, 25 zł/mies. - 2 i 3 karta SIM, 0 zł/mies. – 4 i 5 karta SIM. Dla każdej karty SIM – 7 GB Internet w telefonie, bez limitu Rozmowy w kraju i w roamingu w UE, bez limitu SMS/MMS w kraju i w roamingu w UE, Dodatkowe 3 GB od 2 karty za łączenie usług w Orange, Cena karty SIM za osobę przy skompletowaniu 5 numerów 19zł/mies. Plan Mobilny 55 – 55 zł/mies. pierwsza karta SIM, 35 zł/mies. - 2 i 3 karta SIM, 10 zł/mies. – 4 i 5 karta SIM. Dla każdej karty SIM - bez limitu GB Internet w telefonie, bez limitu Rozmowy w kraju i w roamingu w UE, bez limitu SMS/MMS w kraju i w roamingu w UE, Dodatkowe 3 GB od 2 karty za łączenie usług w Orange, Cena karty SIM za osobę przy skompletowaniu 5 numerów 29zł/mies. Plan Mobilny 75 – 75 zł/mies. pierwsza karta SIM, 55 zł/mies.- 2 i 3 karta SIM, 20 zł/mies. – 4 i 5 karta SIM. Dla każdej karty SIM - bez limitu GB Internet w telefonie, bez limitu Rozmowy w kraju i w roamingu w UE, bez limitu SMS/MMS w kraju i w roamingu w UE, Dodatkowe 3 GB od 2 karty za łączenie usług w Orange, Cena karty SIM za osobę przy skompletowaniu 5 numerów 45zł/mies.",
+     "from": "2016-09-08",
+     "to": null,
+     "kind": "amount",
+     "value": 25
+    }
+   ],
+   "bestDiscount": {
+    "kind": "amount",
+    "value": 25
+   },
+   "since": "2016-09-07"
+  },
+  {
+   "id": "11190096",
+   "entityId": "306112",
+   "name": "Salon Orange",
+   "entityName": "Orange Polska S.A.",
+   "logoId": "1345616",
+   "categories": [
+    {
+     "name": "Łączność",
+     "subcategories": [
+      "Telekomunikacja"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Gen. Józefa Bema 2",
+    "postalCode": "50-265",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.11809,
+    "lng": 17.04139
    },
    "phone": "801234567",
    "email": null,
@@ -33350,216 +33350,6 @@
    "since": "2016-07-05"
   },
   {
-   "id": "10959536",
-   "entityId": "292434",
-   "name": "Salon Play",
-   "entityName": "P4 Sp. z o.o.",
-   "logoId": "1164026",
-   "categories": [
-    {
-     "name": "Łączność",
-     "subcategories": [
-      "Telekomunikacja"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Strzegomska 194",
-    "postalCode": "54-432",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.111673,
-    "lng": 16.961689
-   },
-   "phone": "881,202,031",
-   "email": "wroclaw.str@sprzedaz.playmobile.pl",
-   "website": "https://www.play.pl",
-   "discounts": [
-    {
-     "text": "Partner oferuje zniżkę na następujące taryfy:\r \r - Formuła Rodzina - 65 zł \r Przez 6 miesięcy:\r 30 zł - 1 karta SIM,\r 55 zł - 2 karty SIM,\r 65 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - 0,19 zł\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - 10 GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r \r - Formuła Rodzina - 95 zł \r Przez 6 miesięcy:\r 45 zł - 1 karta SIM,\r 75 zł - 2 karty SIM,\r 95 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - nielimitowane\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - 30 GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r \r Formuła Rodzina - 125 zł\r Przez 6 miesięcy:\r 55 zł - 1 karta SIM,\r 95 zł - 2 karty SIM,\r 125 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - nielimitowane\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - nielimitowane GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r Roaming w UE (dla każdej karty do telefonu) - nielimitowane minuty/SMS/MMS + 500 MB przez 30 dni na całą umowę",
-     "from": "2016-07-07",
-     "to": null,
-     "kind": "amount",
-     "value": 65
-    }
-   ],
-   "bestDiscount": {
-    "kind": "amount",
-    "value": 65
-   },
-   "since": "2016-07-05"
-  },
-  {
-   "id": "10958903",
-   "entityId": "292434",
-   "name": "Salon Play",
-   "entityName": "P4 Sp. z o.o.",
-   "logoId": "1164026",
-   "categories": [
-    {
-     "name": "Łączność",
-     "subcategories": [
-      "Telekomunikacja"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Bardzka 1a",
-    "postalCode": "50-516",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.084669,
-    "lng": 17.048228
-   },
-   "phone": "790,031,676",
-   "email": "wroclaw3@viamind.eu",
-   "website": "https://www.play.pl",
-   "discounts": [
-    {
-     "text": "Partner oferuje zniżkę na następujące taryfy:\r \r - Formuła Rodzina - 65 zł \r Przez 6 miesięcy:\r 30 zł - 1 karta SIM,\r 55 zł - 2 karty SIM,\r 65 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - 0,19 zł\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - 10 GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r \r - Formuła Rodzina - 95 zł \r Przez 6 miesięcy:\r 45 zł - 1 karta SIM,\r 75 zł - 2 karty SIM,\r 95 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - nielimitowane\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - 30 GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r \r Formuła Rodzina - 125 zł\r Przez 6 miesięcy:\r 55 zł - 1 karta SIM,\r 95 zł - 2 karty SIM,\r 125 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - nielimitowane\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - nielimitowane GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r Roaming w UE (dla każdej karty do telefonu) - nielimitowane minuty/SMS/MMS + 500 MB przez 30 dni na całą umowę",
-     "from": "2016-07-07",
-     "to": null,
-     "kind": "amount",
-     "value": 65
-    }
-   ],
-   "bestDiscount": {
-    "kind": "amount",
-    "value": 65
-   },
-   "since": "2016-07-05"
-  },
-  {
-   "id": "10959202",
-   "entityId": "292434",
-   "name": "Salon Play",
-   "entityName": "P4 Sp. z o.o.",
-   "logoId": "1164026",
-   "categories": [
-    {
-     "name": "Łączność",
-     "subcategories": [
-      "Telekomunikacja"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Horbaczewskiego 4/6",
-    "postalCode": "54-130",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.126633,
-    "lng": 16.975691
-   },
-   "phone": "790 030 350 / 71 356 79 68",
-   "email": "wroclaw.hor@sprzedaz.playmobile.pl",
-   "website": "https://www.play.pl",
-   "discounts": [
-    {
-     "text": "Partner oferuje zniżkę na następujące taryfy:\r \r - Formuła Rodzina - 65 zł \r Przez 6 miesięcy:\r 30 zł - 1 karta SIM,\r 55 zł - 2 karty SIM,\r 65 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - 0,19 zł\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - 10 GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r \r - Formuła Rodzina - 95 zł \r Przez 6 miesięcy:\r 45 zł - 1 karta SIM,\r 75 zł - 2 karty SIM,\r 95 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - nielimitowane\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - 30 GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r \r Formuła Rodzina - 125 zł\r Przez 6 miesięcy:\r 55 zł - 1 karta SIM,\r 95 zł - 2 karty SIM,\r 125 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - nielimitowane\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - nielimitowane GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r Roaming w UE (dla każdej karty do telefonu) - nielimitowane minuty/SMS/MMS + 500 MB przez 30 dni na całą umowę",
-     "from": "2016-07-07",
-     "to": null,
-     "kind": "amount",
-     "value": 65
-    }
-   ],
-   "bestDiscount": {
-    "kind": "amount",
-    "value": 65
-   },
-   "since": "2016-07-05"
-  },
-  {
-   "id": "10959226",
-   "entityId": "292434",
-   "name": "Salon Play",
-   "entityName": "P4 Sp. z o.o.",
-   "logoId": "1164026",
-   "categories": [
-    {
-     "name": "Łączność",
-     "subcategories": [
-      "Telekomunikacja"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Długa 37",
-    "postalCode": "53-633",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.118674,
-    "lng": 17.015377
-   },
-   "phone": "790,030,229",
-   "email": "wroclaw.dlu@sprzedaz.playmobile.pl",
-   "website": "https://www.play.pl",
-   "discounts": [
-    {
-     "text": "Partner oferuje zniżkę na następujące taryfy:\r \r - Formuła Rodzina - 65 zł \r Przez 6 miesięcy:\r 30 zł - 1 karta SIM,\r 55 zł - 2 karty SIM,\r 65 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - 0,19 zł\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - 10 GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r \r - Formuła Rodzina - 95 zł \r Przez 6 miesięcy:\r 45 zł - 1 karta SIM,\r 75 zł - 2 karty SIM,\r 95 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - nielimitowane\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - 30 GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r \r Formuła Rodzina - 125 zł\r Przez 6 miesięcy:\r 55 zł - 1 karta SIM,\r 95 zł - 2 karty SIM,\r 125 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - nielimitowane\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - nielimitowane GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r Roaming w UE (dla każdej karty do telefonu) - nielimitowane minuty/SMS/MMS + 500 MB przez 30 dni na całą umowę",
-     "from": "2016-07-07",
-     "to": null,
-     "kind": "amount",
-     "value": 65
-    }
-   ],
-   "bestDiscount": {
-    "kind": "amount",
-    "value": 65
-   },
-   "since": "2016-07-05"
-  },
-  {
-   "id": "10959290",
-   "entityId": "292434",
-   "name": "Salon Play",
-   "entityName": "P4 Sp. z o.o.",
-   "logoId": "1164026",
-   "categories": [
-    {
-     "name": "Łączność",
-     "subcategories": [
-      "Telekomunikacja"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Legnicka 58",
-    "postalCode": "54-204",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.118787,
-    "lng": 16.989183
-   },
-   "phone": "790,032,243",
-   "email": "wroclaw2@viamind.eu",
-   "website": "https://www.play.pl",
-   "discounts": [
-    {
-     "text": "Partner oferuje zniżkę na następujące taryfy:\r \r - Formuła Rodzina - 65 zł \r Przez 6 miesięcy:\r 30 zł - 1 karta SIM,\r 55 zł - 2 karty SIM,\r 65 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - 0,19 zł\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - 10 GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r \r - Formuła Rodzina - 95 zł \r Przez 6 miesięcy:\r 45 zł - 1 karta SIM,\r 75 zł - 2 karty SIM,\r 95 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - nielimitowane\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - 30 GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r \r Formuła Rodzina - 125 zł\r Przez 6 miesięcy:\r 55 zł - 1 karta SIM,\r 95 zł - 2 karty SIM,\r 125 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - nielimitowane\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - nielimitowane GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r Roaming w UE (dla każdej karty do telefonu) - nielimitowane minuty/SMS/MMS + 500 MB przez 30 dni na całą umowę",
-     "from": "2016-07-07",
-     "to": null,
-     "kind": "amount",
-     "value": 65
-    }
-   ],
-   "bestDiscount": {
-    "kind": "amount",
-    "value": 65
-   },
-   "since": "2016-07-05"
-  },
-  {
    "id": "10959308",
    "entityId": "292434",
    "name": "Salon Play",
@@ -33627,6 +33417,90 @@
    },
    "phone": "790,030,436",
    "email": "wroclawhal@sprzedaz.playmobile.pl",
+   "website": "https://www.play.pl",
+   "discounts": [
+    {
+     "text": "Partner oferuje zniżkę na następujące taryfy:\r \r - Formuła Rodzina - 65 zł \r Przez 6 miesięcy:\r 30 zł - 1 karta SIM,\r 55 zł - 2 karty SIM,\r 65 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - 0,19 zł\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - 10 GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r \r - Formuła Rodzina - 95 zł \r Przez 6 miesięcy:\r 45 zł - 1 karta SIM,\r 75 zł - 2 karty SIM,\r 95 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - nielimitowane\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - 30 GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r \r Formuła Rodzina - 125 zł\r Przez 6 miesięcy:\r 55 zł - 1 karta SIM,\r 95 zł - 2 karty SIM,\r 125 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - nielimitowane\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - nielimitowane GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r Roaming w UE (dla każdej karty do telefonu) - nielimitowane minuty/SMS/MMS + 500 MB przez 30 dni na całą umowę",
+     "from": "2016-07-07",
+     "to": null,
+     "kind": "amount",
+     "value": 65
+    }
+   ],
+   "bestDiscount": {
+    "kind": "amount",
+    "value": 65
+   },
+   "since": "2016-07-05"
+  },
+  {
+   "id": "10959536",
+   "entityId": "292434",
+   "name": "Salon Play",
+   "entityName": "P4 Sp. z o.o.",
+   "logoId": "1164026",
+   "categories": [
+    {
+     "name": "Łączność",
+     "subcategories": [
+      "Telekomunikacja"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Strzegomska 194",
+    "postalCode": "54-432",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.111673,
+    "lng": 16.961689
+   },
+   "phone": "881,202,031",
+   "email": "wroclaw.str@sprzedaz.playmobile.pl",
+   "website": "https://www.play.pl",
+   "discounts": [
+    {
+     "text": "Partner oferuje zniżkę na następujące taryfy:\r \r - Formuła Rodzina - 65 zł \r Przez 6 miesięcy:\r 30 zł - 1 karta SIM,\r 55 zł - 2 karty SIM,\r 65 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - 0,19 zł\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - 10 GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r \r - Formuła Rodzina - 95 zł \r Przez 6 miesięcy:\r 45 zł - 1 karta SIM,\r 75 zł - 2 karty SIM,\r 95 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - nielimitowane\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - 30 GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r \r Formuła Rodzina - 125 zł\r Przez 6 miesięcy:\r 55 zł - 1 karta SIM,\r 95 zł - 2 karty SIM,\r 125 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - nielimitowane\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - nielimitowane GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r Roaming w UE (dla każdej karty do telefonu) - nielimitowane minuty/SMS/MMS + 500 MB przez 30 dni na całą umowę",
+     "from": "2016-07-07",
+     "to": null,
+     "kind": "amount",
+     "value": 65
+    }
+   ],
+   "bestDiscount": {
+    "kind": "amount",
+    "value": 65
+   },
+   "since": "2016-07-05"
+  },
+  {
+   "id": "10958903",
+   "entityId": "292434",
+   "name": "Salon Play",
+   "entityName": "P4 Sp. z o.o.",
+   "logoId": "1164026",
+   "categories": [
+    {
+     "name": "Łączność",
+     "subcategories": [
+      "Telekomunikacja"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Bardzka 1a",
+    "postalCode": "50-516",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.084669,
+    "lng": 17.048228
+   },
+   "phone": "790,031,676",
+   "email": "wroclaw3@viamind.eu",
    "website": "https://www.play.pl",
    "discounts": [
     {
@@ -34064,6 +33938,174 @@
    "since": "2016-07-05"
   },
   {
+   "id": "10959202",
+   "entityId": "292434",
+   "name": "Salon Play",
+   "entityName": "P4 Sp. z o.o.",
+   "logoId": "1164026",
+   "categories": [
+    {
+     "name": "Łączność",
+     "subcategories": [
+      "Telekomunikacja"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Horbaczewskiego 4/6",
+    "postalCode": "54-130",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.126633,
+    "lng": 16.975691
+   },
+   "phone": "790 030 350 / 71 356 79 68",
+   "email": "wroclaw.hor@sprzedaz.playmobile.pl",
+   "website": "https://www.play.pl",
+   "discounts": [
+    {
+     "text": "Partner oferuje zniżkę na następujące taryfy:\r \r - Formuła Rodzina - 65 zł \r Przez 6 miesięcy:\r 30 zł - 1 karta SIM,\r 55 zł - 2 karty SIM,\r 65 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - 0,19 zł\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - 10 GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r \r - Formuła Rodzina - 95 zł \r Przez 6 miesięcy:\r 45 zł - 1 karta SIM,\r 75 zł - 2 karty SIM,\r 95 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - nielimitowane\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - 30 GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r \r Formuła Rodzina - 125 zł\r Przez 6 miesięcy:\r 55 zł - 1 karta SIM,\r 95 zł - 2 karty SIM,\r 125 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - nielimitowane\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - nielimitowane GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r Roaming w UE (dla każdej karty do telefonu) - nielimitowane minuty/SMS/MMS + 500 MB przez 30 dni na całą umowę",
+     "from": "2016-07-07",
+     "to": null,
+     "kind": "amount",
+     "value": 65
+    }
+   ],
+   "bestDiscount": {
+    "kind": "amount",
+    "value": 65
+   },
+   "since": "2016-07-05"
+  },
+  {
+   "id": "10959226",
+   "entityId": "292434",
+   "name": "Salon Play",
+   "entityName": "P4 Sp. z o.o.",
+   "logoId": "1164026",
+   "categories": [
+    {
+     "name": "Łączność",
+     "subcategories": [
+      "Telekomunikacja"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Długa 37",
+    "postalCode": "53-633",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.118674,
+    "lng": 17.015377
+   },
+   "phone": "790,030,229",
+   "email": "wroclaw.dlu@sprzedaz.playmobile.pl",
+   "website": "https://www.play.pl",
+   "discounts": [
+    {
+     "text": "Partner oferuje zniżkę na następujące taryfy:\r \r - Formuła Rodzina - 65 zł \r Przez 6 miesięcy:\r 30 zł - 1 karta SIM,\r 55 zł - 2 karty SIM,\r 65 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - 0,19 zł\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - 10 GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r \r - Formuła Rodzina - 95 zł \r Przez 6 miesięcy:\r 45 zł - 1 karta SIM,\r 75 zł - 2 karty SIM,\r 95 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - nielimitowane\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - 30 GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r \r Formuła Rodzina - 125 zł\r Przez 6 miesięcy:\r 55 zł - 1 karta SIM,\r 95 zł - 2 karty SIM,\r 125 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - nielimitowane\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - nielimitowane GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r Roaming w UE (dla każdej karty do telefonu) - nielimitowane minuty/SMS/MMS + 500 MB przez 30 dni na całą umowę",
+     "from": "2016-07-07",
+     "to": null,
+     "kind": "amount",
+     "value": 65
+    }
+   ],
+   "bestDiscount": {
+    "kind": "amount",
+    "value": 65
+   },
+   "since": "2016-07-05"
+  },
+  {
+   "id": "10959290",
+   "entityId": "292434",
+   "name": "Salon Play",
+   "entityName": "P4 Sp. z o.o.",
+   "logoId": "1164026",
+   "categories": [
+    {
+     "name": "Łączność",
+     "subcategories": [
+      "Telekomunikacja"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Legnicka 58",
+    "postalCode": "54-204",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.118787,
+    "lng": 16.989183
+   },
+   "phone": "790,032,243",
+   "email": "wroclaw2@viamind.eu",
+   "website": "https://www.play.pl",
+   "discounts": [
+    {
+     "text": "Partner oferuje zniżkę na następujące taryfy:\r \r - Formuła Rodzina - 65 zł \r Przez 6 miesięcy:\r 30 zł - 1 karta SIM,\r 55 zł - 2 karty SIM,\r 65 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - 0,19 zł\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - 10 GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r \r - Formuła Rodzina - 95 zł \r Przez 6 miesięcy:\r 45 zł - 1 karta SIM,\r 75 zł - 2 karty SIM,\r 95 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - nielimitowane\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - 30 GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r \r Formuła Rodzina - 125 zł\r Przez 6 miesięcy:\r 55 zł - 1 karta SIM,\r 95 zł - 2 karty SIM,\r 125 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - nielimitowane\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - nielimitowane GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r Roaming w UE (dla każdej karty do telefonu) - nielimitowane minuty/SMS/MMS + 500 MB przez 30 dni na całą umowę",
+     "from": "2016-07-07",
+     "to": null,
+     "kind": "amount",
+     "value": 65
+    }
+   ],
+   "bestDiscount": {
+    "kind": "amount",
+    "value": 65
+   },
+   "since": "2016-07-05"
+  },
+  {
+   "id": "10959350",
+   "entityId": "292434",
+   "name": "Wyspa",
+   "entityName": "P4 Sp. z o.o.",
+   "logoId": "1164026",
+   "categories": [
+    {
+     "name": "Łączność",
+     "subcategories": [
+      "Telekomunikacja"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Dominikański 3",
+    "postalCode": "50-159",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.108413,
+    "lng": 17.041104
+   },
+   "phone": "790,005,524",
+   "email": "wroclaw.dom@sprzedaz.playmobile.pl",
+   "website": "https://www.play.pl",
+   "discounts": [
+    {
+     "text": "Partner oferuje zniżkę na następujące taryfy:\r \r - Formuła Rodzina - 65 zł \r Przez 6 miesięcy:\r 30 zł - 1 karta SIM,\r 55 zł - 2 karty SIM,\r 65 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - 0,19 zł\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - 10 GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r \r - Formuła Rodzina - 95 zł \r Przez 6 miesięcy:\r 45 zł - 1 karta SIM,\r 75 zł - 2 karty SIM,\r 95 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - nielimitowane\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - 30 GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r \r Formuła Rodzina - 125 zł\r Przez 6 miesięcy:\r 55 zł - 1 karta SIM,\r 95 zł - 2 karty SIM,\r 125 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - nielimitowane\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - nielimitowane GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r Roaming w UE (dla każdej karty do telefonu) - nielimitowane minuty/SMS/MMS + 500 MB przez 30 dni na całą umowę",
+     "from": "2016-07-07",
+     "to": null,
+     "kind": "amount",
+     "value": 65
+    }
+   ],
+   "bestDiscount": {
+    "kind": "amount",
+    "value": 65
+   },
+   "since": "2016-07-05"
+  },
+  {
    "id": "10959570",
    "entityId": "292434",
    "name": "Wyspa",
@@ -34131,48 +34173,6 @@
    },
    "phone": "881,303,778",
    "email": "wroclaw.swid@sprzedaz.playmobile.pl",
-   "website": "https://www.play.pl",
-   "discounts": [
-    {
-     "text": "Partner oferuje zniżkę na następujące taryfy:\r \r - Formuła Rodzina - 65 zł \r Przez 6 miesięcy:\r 30 zł - 1 karta SIM,\r 55 zł - 2 karty SIM,\r 65 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - 0,19 zł\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - 10 GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r \r - Formuła Rodzina - 95 zł \r Przez 6 miesięcy:\r 45 zł - 1 karta SIM,\r 75 zł - 2 karty SIM,\r 95 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - nielimitowane\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - 30 GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r \r Formuła Rodzina - 125 zł\r Przez 6 miesięcy:\r 55 zł - 1 karta SIM,\r 95 zł - 2 karty SIM,\r 125 zł - 3-5 kart SIM\r \r Minuty & SMS do PLAY - nielimitowane\r Minuty do wszystkich sieci komórkowych - nielimitowane\r SMS/MMS - nielimitowane\r Minuty na stacjonarne - nielimitowane\r Wspólny Internet - nielimitowane GB\r Internet na karcie do Internetu - nielimitowane GB przez 3 miesiące, potem 10 zł za każde rozpoczęte 10 GB\r Roaming w UE (dla każdej karty do telefonu) - nielimitowane minuty/SMS/MMS + 500 MB przez 30 dni na całą umowę",
-     "from": "2016-07-07",
-     "to": null,
-     "kind": "amount",
-     "value": 65
-    }
-   ],
-   "bestDiscount": {
-    "kind": "amount",
-    "value": 65
-   },
-   "since": "2016-07-05"
-  },
-  {
-   "id": "10959350",
-   "entityId": "292434",
-   "name": "Wyspa",
-   "entityName": "P4 Sp. z o.o.",
-   "logoId": "1164026",
-   "categories": [
-    {
-     "name": "Łączność",
-     "subcategories": [
-      "Telekomunikacja"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Dominikański 3",
-    "postalCode": "50-159",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.108413,
-    "lng": 17.041104
-   },
-   "phone": "790,005,524",
-   "email": "wroclaw.dom@sprzedaz.playmobile.pl",
    "website": "https://www.play.pl",
    "discounts": [
     {
@@ -36033,11 +36033,11 @@
    "since": "2018-01-11"
   },
   {
-   "id": "11254133",
+   "id": "11254670",
    "entityId": "310231",
    "name": "ORLEN - Wrocław",
    "entityName": "Polski Koncern Naftowy ORLEN Spółka Akcyjna",
-   "logoId": "1402060",
+   "logoId": "1402597",
    "categories": [
     {
      "name": "Transport",
@@ -36047,14 +36047,77 @@
     }
    ],
    "address": {
-    "street": "Ślężna 88A",
-    "postalCode": "53-301",
+    "street": "Ks. Witolda 55",
+    "postalCode": "50-203",
     "city": "Wrocław",
     "district": "Wrocław"
    },
    "location": {
-    "lat": 51.08325,
-    "lng": 17.02534
+    "lat": 51.11631,
+    "lng": 17.02263
+   },
+   "phone": "801167536",
+   "email": null,
+   "website": "https://www.orlen.pl",
+   "discounts": [
+    {
+     "text": "20% zniżki na wszystkie produkty z oferty Stop Cafe",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "percent",
+     "value": 20
+    },
+    {
+     "text": "rabat 10 groszy / 1 litr paliwa VERVA (98 lub ON)",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "other",
+     "value": null
+    },
+    {
+     "text": "20% zniżki na myjnię",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "percent",
+     "value": 20
+    },
+    {
+     "text": "rabat 8 groszy / 1 litr paliwa standard (Efecta95, Efecta Diesel, LPG)",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "other",
+     "value": null
+    }
+   ],
+   "bestDiscount": {
+    "kind": "percent",
+    "value": 20
+   },
+   "since": "2018-01-11"
+  },
+  {
+   "id": "11254603",
+   "entityId": "310231",
+   "name": "ORLEN - Wrocław",
+   "entityName": "Polski Koncern Naftowy ORLEN Spółka Akcyjna",
+   "logoId": "1402530",
+   "categories": [
+    {
+     "name": "Transport",
+     "subcategories": [
+      "Stacje paliw"
+     ]
+    }
+   ],
+   "address": {
+    "street": "B. Krzywoustego 177",
+    "postalCode": "51-312",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.14493,
+    "lng": 17.10623
    },
    "phone": "801167536",
    "email": null,
@@ -36159,11 +36222,11 @@
    "since": "2018-01-11"
   },
   {
-   "id": "11254603",
+   "id": "11254008",
    "entityId": "310231",
    "name": "ORLEN - Wrocław",
    "entityName": "Polski Koncern Naftowy ORLEN Spółka Akcyjna",
-   "logoId": "1402530",
+   "logoId": "1401935",
    "categories": [
     {
      "name": "Transport",
@@ -36173,14 +36236,455 @@
     }
    ],
    "address": {
-    "street": "B. Krzywoustego 177",
+    "street": "Tęczowa 5",
+    "postalCode": "53-601",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.10663,
+    "lng": 17.01815
+   },
+   "phone": "801167536",
+   "email": null,
+   "website": "https://www.orlen.pl",
+   "discounts": [
+    {
+     "text": "20% zniżki na wszystkie produkty z oferty Stop Cafe",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "percent",
+     "value": 20
+    },
+    {
+     "text": "rabat 10 groszy / 1 litr paliwa VERVA (98 lub ON)",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "other",
+     "value": null
+    },
+    {
+     "text": "20% zniżki na myjnię",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "percent",
+     "value": 20
+    },
+    {
+     "text": "rabat 8 groszy / 1 litr paliwa standard (Efecta95, Efecta Diesel, LPG)",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "other",
+     "value": null
+    }
+   ],
+   "bestDiscount": {
+    "kind": "percent",
+    "value": 20
+   },
+   "since": "2018-01-11"
+  },
+  {
+   "id": "11254030",
+   "entityId": "310231",
+   "name": "ORLEN - Wrocław",
+   "entityName": "Polski Koncern Naftowy ORLEN Spółka Akcyjna",
+   "logoId": "1401957",
+   "categories": [
+    {
+     "name": "Transport",
+     "subcategories": [
+      "Stacje paliw"
+     ]
+    }
+   ],
+   "address": {
+    "street": "B. Krzywoustego 172",
     "postalCode": "51-312",
     "city": "Wrocław",
     "district": "Wrocław"
    },
    "location": {
-    "lat": 51.14493,
-    "lng": 17.10623
+    "lat": 51.14471,
+    "lng": 17.10519
+   },
+   "phone": "801167536",
+   "email": null,
+   "website": "https://www.orlen.pl",
+   "discounts": [
+    {
+     "text": "20% zniżki na wszystkie produkty z oferty Stop Cafe",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "percent",
+     "value": 20
+    },
+    {
+     "text": "rabat 10 groszy / 1 litr paliwa VERVA (98 lub ON)",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "other",
+     "value": null
+    },
+    {
+     "text": "20% zniżki na myjnię",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "percent",
+     "value": 20
+    },
+    {
+     "text": "rabat 8 groszy / 1 litr paliwa standard (Efecta95, Efecta Diesel, LPG)",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "other",
+     "value": null
+    }
+   ],
+   "bestDiscount": {
+    "kind": "percent",
+    "value": 20
+   },
+   "since": "2018-01-11"
+  },
+  {
+   "id": "11254252",
+   "entityId": "310231",
+   "name": "ORLEN - Wrocław",
+   "entityName": "Polski Koncern Naftowy ORLEN Spółka Akcyjna",
+   "logoId": "1402179",
+   "categories": [
+    {
+     "name": "Transport",
+     "subcategories": [
+      "Stacje paliw"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Krakowska 11",
+    "postalCode": "50-424",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.09493,
+    "lng": 17.05783
+   },
+   "phone": "801167536",
+   "email": null,
+   "website": "https://www.orlen.pl",
+   "discounts": [
+    {
+     "text": "20% zniżki na wszystkie produkty z oferty Stop Cafe",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "percent",
+     "value": 20
+    },
+    {
+     "text": "rabat 10 groszy / 1 litr paliwa VERVA (98 lub ON)",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "other",
+     "value": null
+    },
+    {
+     "text": "20% zniżki na myjnię",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "percent",
+     "value": 20
+    },
+    {
+     "text": "rabat 8 groszy / 1 litr paliwa standard (Efecta95, Efecta Diesel, LPG)",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "other",
+     "value": null
+    }
+   ],
+   "bestDiscount": {
+    "kind": "percent",
+    "value": 20
+   },
+   "since": "2018-01-11"
+  },
+  {
+   "id": "11255197",
+   "entityId": "310231",
+   "name": "ORLEN - Wrocław",
+   "entityName": "Polski Koncern Naftowy ORLEN Spółka Akcyjna",
+   "logoId": "1403124",
+   "categories": [
+    {
+     "name": "Transport",
+     "subcategories": [
+      "Stacje paliw"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Żmigrodzka 145",
+    "postalCode": "51-130",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.14936,
+    "lng": 17.02983
+   },
+   "phone": "801167536",
+   "email": null,
+   "website": "https://www.orlen.pl",
+   "discounts": [
+    {
+     "text": "20% zniżki na wszystkie produkty z oferty Stop Cafe",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "percent",
+     "value": 20
+    },
+    {
+     "text": "rabat 10 groszy / 1 litr paliwa VERVA (98 lub ON)",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "other",
+     "value": null
+    },
+    {
+     "text": "20% zniżki na myjnię",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "percent",
+     "value": 20
+    },
+    {
+     "text": "rabat 8 groszy / 1 litr paliwa standard (Efecta95, Efecta Diesel, LPG)",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "other",
+     "value": null
+    }
+   ],
+   "bestDiscount": {
+    "kind": "percent",
+    "value": 20
+   },
+   "since": "2018-01-11"
+  },
+  {
+   "id": "11254327",
+   "entityId": "310231",
+   "name": "ORLEN - Wrocław",
+   "entityName": "Polski Koncern Naftowy ORLEN Spółka Akcyjna",
+   "logoId": "1402254",
+   "categories": [
+    {
+     "name": "Transport",
+     "subcategories": [
+      "Stacje paliw"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Grabiszyńska 187",
+    "postalCode": "53-234",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.09775,
+    "lng": 16.99279
+   },
+   "phone": "801167536",
+   "email": null,
+   "website": "https://www.orlen.pl",
+   "discounts": [
+    {
+     "text": "20% zniżki na wszystkie produkty z oferty Stop Cafe",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "percent",
+     "value": 20
+    },
+    {
+     "text": "rabat 10 groszy / 1 litr paliwa VERVA (98 lub ON)",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "other",
+     "value": null
+    },
+    {
+     "text": "20% zniżki na myjnię",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "percent",
+     "value": 20
+    },
+    {
+     "text": "rabat 8 groszy / 1 litr paliwa standard (Efecta95, Efecta Diesel, LPG)",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "other",
+     "value": null
+    }
+   ],
+   "bestDiscount": {
+    "kind": "percent",
+    "value": 20
+   },
+   "since": "2018-01-11"
+  },
+  {
+   "id": "11254328",
+   "entityId": "310231",
+   "name": "ORLEN - Wrocław",
+   "entityName": "Polski Koncern Naftowy ORLEN Spółka Akcyjna",
+   "logoId": "1402255",
+   "categories": [
+    {
+     "name": "Transport",
+     "subcategories": [
+      "Stacje paliw"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Jedności Narodowej 156",
+    "postalCode": "50-303",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.12622,
+    "lng": 17.04717
+   },
+   "phone": "801167536",
+   "email": null,
+   "website": "https://www.orlen.pl",
+   "discounts": [
+    {
+     "text": "20% zniżki na wszystkie produkty z oferty Stop Cafe",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "percent",
+     "value": 20
+    },
+    {
+     "text": "rabat 10 groszy / 1 litr paliwa VERVA (98 lub ON)",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "other",
+     "value": null
+    },
+    {
+     "text": "20% zniżki na myjnię",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "percent",
+     "value": 20
+    },
+    {
+     "text": "rabat 8 groszy / 1 litr paliwa standard (Efecta95, Efecta Diesel, LPG)",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "other",
+     "value": null
+    }
+   ],
+   "bestDiscount": {
+    "kind": "percent",
+    "value": 20
+   },
+   "since": "2018-01-11"
+  },
+  {
+   "id": "11254329",
+   "entityId": "310231",
+   "name": "ORLEN - Wrocław",
+   "entityName": "Polski Koncern Naftowy ORLEN Spółka Akcyjna",
+   "logoId": "1402256",
+   "categories": [
+    {
+     "name": "Transport",
+     "subcategories": [
+      "Stacje paliw"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Lotnicza 11",
+    "postalCode": "54-154",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.12801,
+    "lng": 16.97709
+   },
+   "phone": "801167536",
+   "email": null,
+   "website": "https://www.orlen.pl",
+   "discounts": [
+    {
+     "text": "20% zniżki na wszystkie produkty z oferty Stop Cafe",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "percent",
+     "value": 20
+    },
+    {
+     "text": "rabat 10 groszy / 1 litr paliwa VERVA (98 lub ON)",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "other",
+     "value": null
+    },
+    {
+     "text": "20% zniżki na myjnię",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "percent",
+     "value": 20
+    },
+    {
+     "text": "rabat 8 groszy / 1 litr paliwa standard (Efecta95, Efecta Diesel, LPG)",
+     "from": "2018-01-12",
+     "to": null,
+     "kind": "other",
+     "value": null
+    }
+   ],
+   "bestDiscount": {
+    "kind": "percent",
+    "value": 20
+   },
+   "since": "2018-01-11"
+  },
+  {
+   "id": "11254330",
+   "entityId": "310231",
+   "name": "ORLEN - Wrocław",
+   "entityName": "Polski Koncern Naftowy ORLEN Spółka Akcyjna",
+   "logoId": "1402257",
+   "categories": [
+    {
+     "name": "Transport",
+     "subcategories": [
+      "Stacje paliw"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Pasteura 20",
+    "postalCode": "50-367",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.1143,
+    "lng": 17.07093
    },
    "phone": "801167536",
    "email": null,
@@ -36348,11 +36852,11 @@
    "since": "2018-01-11"
   },
   {
-   "id": "11254670",
+   "id": "11254133",
    "entityId": "310231",
    "name": "ORLEN - Wrocław",
    "entityName": "Polski Koncern Naftowy ORLEN Spółka Akcyjna",
-   "logoId": "1402597",
+   "logoId": "1402060",
    "categories": [
     {
      "name": "Transport",
@@ -36362,14 +36866,14 @@
     }
    ],
    "address": {
-    "street": "Ks. Witolda 55",
-    "postalCode": "50-203",
+    "street": "Ślężna 88A",
+    "postalCode": "53-301",
     "city": "Wrocław",
     "district": "Wrocław"
    },
    "location": {
-    "lat": 51.11631,
-    "lng": 17.02263
+    "lat": 51.08325,
+    "lng": 17.02534
    },
    "phone": "801167536",
    "email": null,
@@ -36811,510 +37315,6 @@
    "location": {
     "lat": 51.15767,
     "lng": 16.92229
-   },
-   "phone": "801167536",
-   "email": null,
-   "website": "https://www.orlen.pl",
-   "discounts": [
-    {
-     "text": "20% zniżki na wszystkie produkty z oferty Stop Cafe",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "percent",
-     "value": 20
-    },
-    {
-     "text": "rabat 10 groszy / 1 litr paliwa VERVA (98 lub ON)",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "other",
-     "value": null
-    },
-    {
-     "text": "20% zniżki na myjnię",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "percent",
-     "value": 20
-    },
-    {
-     "text": "rabat 8 groszy / 1 litr paliwa standard (Efecta95, Efecta Diesel, LPG)",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "other",
-     "value": null
-    }
-   ],
-   "bestDiscount": {
-    "kind": "percent",
-    "value": 20
-   },
-   "since": "2018-01-11"
-  },
-  {
-   "id": "11254327",
-   "entityId": "310231",
-   "name": "ORLEN - Wrocław",
-   "entityName": "Polski Koncern Naftowy ORLEN Spółka Akcyjna",
-   "logoId": "1402254",
-   "categories": [
-    {
-     "name": "Transport",
-     "subcategories": [
-      "Stacje paliw"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Grabiszyńska 187",
-    "postalCode": "53-234",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.09775,
-    "lng": 16.99279
-   },
-   "phone": "801167536",
-   "email": null,
-   "website": "https://www.orlen.pl",
-   "discounts": [
-    {
-     "text": "20% zniżki na wszystkie produkty z oferty Stop Cafe",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "percent",
-     "value": 20
-    },
-    {
-     "text": "rabat 10 groszy / 1 litr paliwa VERVA (98 lub ON)",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "other",
-     "value": null
-    },
-    {
-     "text": "20% zniżki na myjnię",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "percent",
-     "value": 20
-    },
-    {
-     "text": "rabat 8 groszy / 1 litr paliwa standard (Efecta95, Efecta Diesel, LPG)",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "other",
-     "value": null
-    }
-   ],
-   "bestDiscount": {
-    "kind": "percent",
-    "value": 20
-   },
-   "since": "2018-01-11"
-  },
-  {
-   "id": "11254328",
-   "entityId": "310231",
-   "name": "ORLEN - Wrocław",
-   "entityName": "Polski Koncern Naftowy ORLEN Spółka Akcyjna",
-   "logoId": "1402255",
-   "categories": [
-    {
-     "name": "Transport",
-     "subcategories": [
-      "Stacje paliw"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Jedności Narodowej 156",
-    "postalCode": "50-303",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.12622,
-    "lng": 17.04717
-   },
-   "phone": "801167536",
-   "email": null,
-   "website": "https://www.orlen.pl",
-   "discounts": [
-    {
-     "text": "20% zniżki na wszystkie produkty z oferty Stop Cafe",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "percent",
-     "value": 20
-    },
-    {
-     "text": "rabat 10 groszy / 1 litr paliwa VERVA (98 lub ON)",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "other",
-     "value": null
-    },
-    {
-     "text": "20% zniżki na myjnię",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "percent",
-     "value": 20
-    },
-    {
-     "text": "rabat 8 groszy / 1 litr paliwa standard (Efecta95, Efecta Diesel, LPG)",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "other",
-     "value": null
-    }
-   ],
-   "bestDiscount": {
-    "kind": "percent",
-    "value": 20
-   },
-   "since": "2018-01-11"
-  },
-  {
-   "id": "11254329",
-   "entityId": "310231",
-   "name": "ORLEN - Wrocław",
-   "entityName": "Polski Koncern Naftowy ORLEN Spółka Akcyjna",
-   "logoId": "1402256",
-   "categories": [
-    {
-     "name": "Transport",
-     "subcategories": [
-      "Stacje paliw"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Lotnicza 11",
-    "postalCode": "54-154",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.12801,
-    "lng": 16.97709
-   },
-   "phone": "801167536",
-   "email": null,
-   "website": "https://www.orlen.pl",
-   "discounts": [
-    {
-     "text": "20% zniżki na wszystkie produkty z oferty Stop Cafe",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "percent",
-     "value": 20
-    },
-    {
-     "text": "rabat 10 groszy / 1 litr paliwa VERVA (98 lub ON)",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "other",
-     "value": null
-    },
-    {
-     "text": "20% zniżki na myjnię",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "percent",
-     "value": 20
-    },
-    {
-     "text": "rabat 8 groszy / 1 litr paliwa standard (Efecta95, Efecta Diesel, LPG)",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "other",
-     "value": null
-    }
-   ],
-   "bestDiscount": {
-    "kind": "percent",
-    "value": 20
-   },
-   "since": "2018-01-11"
-  },
-  {
-   "id": "11254330",
-   "entityId": "310231",
-   "name": "ORLEN - Wrocław",
-   "entityName": "Polski Koncern Naftowy ORLEN Spółka Akcyjna",
-   "logoId": "1402257",
-   "categories": [
-    {
-     "name": "Transport",
-     "subcategories": [
-      "Stacje paliw"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Pasteura 20",
-    "postalCode": "50-367",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.1143,
-    "lng": 17.07093
-   },
-   "phone": "801167536",
-   "email": null,
-   "website": "https://www.orlen.pl",
-   "discounts": [
-    {
-     "text": "20% zniżki na wszystkie produkty z oferty Stop Cafe",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "percent",
-     "value": 20
-    },
-    {
-     "text": "rabat 10 groszy / 1 litr paliwa VERVA (98 lub ON)",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "other",
-     "value": null
-    },
-    {
-     "text": "20% zniżki na myjnię",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "percent",
-     "value": 20
-    },
-    {
-     "text": "rabat 8 groszy / 1 litr paliwa standard (Efecta95, Efecta Diesel, LPG)",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "other",
-     "value": null
-    }
-   ],
-   "bestDiscount": {
-    "kind": "percent",
-    "value": 20
-   },
-   "since": "2018-01-11"
-  },
-  {
-   "id": "11254252",
-   "entityId": "310231",
-   "name": "ORLEN - Wrocław",
-   "entityName": "Polski Koncern Naftowy ORLEN Spółka Akcyjna",
-   "logoId": "1402179",
-   "categories": [
-    {
-     "name": "Transport",
-     "subcategories": [
-      "Stacje paliw"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Krakowska 11",
-    "postalCode": "50-424",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.09493,
-    "lng": 17.05783
-   },
-   "phone": "801167536",
-   "email": null,
-   "website": "https://www.orlen.pl",
-   "discounts": [
-    {
-     "text": "20% zniżki na wszystkie produkty z oferty Stop Cafe",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "percent",
-     "value": 20
-    },
-    {
-     "text": "rabat 10 groszy / 1 litr paliwa VERVA (98 lub ON)",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "other",
-     "value": null
-    },
-    {
-     "text": "20% zniżki na myjnię",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "percent",
-     "value": 20
-    },
-    {
-     "text": "rabat 8 groszy / 1 litr paliwa standard (Efecta95, Efecta Diesel, LPG)",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "other",
-     "value": null
-    }
-   ],
-   "bestDiscount": {
-    "kind": "percent",
-    "value": 20
-   },
-   "since": "2018-01-11"
-  },
-  {
-   "id": "11254008",
-   "entityId": "310231",
-   "name": "ORLEN - Wrocław",
-   "entityName": "Polski Koncern Naftowy ORLEN Spółka Akcyjna",
-   "logoId": "1401935",
-   "categories": [
-    {
-     "name": "Transport",
-     "subcategories": [
-      "Stacje paliw"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Tęczowa 5",
-    "postalCode": "53-601",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.10663,
-    "lng": 17.01815
-   },
-   "phone": "801167536",
-   "email": null,
-   "website": "https://www.orlen.pl",
-   "discounts": [
-    {
-     "text": "20% zniżki na wszystkie produkty z oferty Stop Cafe",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "percent",
-     "value": 20
-    },
-    {
-     "text": "rabat 10 groszy / 1 litr paliwa VERVA (98 lub ON)",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "other",
-     "value": null
-    },
-    {
-     "text": "20% zniżki na myjnię",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "percent",
-     "value": 20
-    },
-    {
-     "text": "rabat 8 groszy / 1 litr paliwa standard (Efecta95, Efecta Diesel, LPG)",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "other",
-     "value": null
-    }
-   ],
-   "bestDiscount": {
-    "kind": "percent",
-    "value": 20
-   },
-   "since": "2018-01-11"
-  },
-  {
-   "id": "11254030",
-   "entityId": "310231",
-   "name": "ORLEN - Wrocław",
-   "entityName": "Polski Koncern Naftowy ORLEN Spółka Akcyjna",
-   "logoId": "1401957",
-   "categories": [
-    {
-     "name": "Transport",
-     "subcategories": [
-      "Stacje paliw"
-     ]
-    }
-   ],
-   "address": {
-    "street": "B. Krzywoustego 172",
-    "postalCode": "51-312",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.14471,
-    "lng": 17.10519
-   },
-   "phone": "801167536",
-   "email": null,
-   "website": "https://www.orlen.pl",
-   "discounts": [
-    {
-     "text": "20% zniżki na wszystkie produkty z oferty Stop Cafe",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "percent",
-     "value": 20
-    },
-    {
-     "text": "rabat 10 groszy / 1 litr paliwa VERVA (98 lub ON)",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "other",
-     "value": null
-    },
-    {
-     "text": "20% zniżki na myjnię",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "percent",
-     "value": 20
-    },
-    {
-     "text": "rabat 8 groszy / 1 litr paliwa standard (Efecta95, Efecta Diesel, LPG)",
-     "from": "2018-01-12",
-     "to": null,
-     "kind": "other",
-     "value": null
-    }
-   ],
-   "bestDiscount": {
-    "kind": "percent",
-    "value": 20
-   },
-   "since": "2018-01-11"
-  },
-  {
-   "id": "11255197",
-   "entityId": "310231",
-   "name": "ORLEN - Wrocław",
-   "entityName": "Polski Koncern Naftowy ORLEN Spółka Akcyjna",
-   "logoId": "1403124",
-   "categories": [
-    {
-     "name": "Transport",
-     "subcategories": [
-      "Stacje paliw"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Żmigrodzka 145",
-    "postalCode": "51-130",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.14936,
-    "lng": 17.02983
    },
    "phone": "801167536",
    "email": null,
@@ -44727,6 +44727,216 @@
    "since": "2026-04-30"
   },
   {
+   "id": "11328242",
+   "entityId": "321045",
+   "name": "Stokrotka Sp. Z o.o.",
+   "entityName": "Stokrotka Sp. Z o.o.",
+   "logoId": "1471139",
+   "categories": [
+    {
+     "name": "Żywność",
+     "subcategories": [
+      "Sklepy"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Krzemieniecka 125",
+    "postalCode": "54-613",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.09707,
+    "lng": 16.951
+   },
+   "phone": "81 8889200",
+   "email": "STOKROTKA@STOKROTKA.PL",
+   "website": "https://www.stokrotka.pl",
+   "discounts": [
+    {
+     "text": "Uczestnicy Programu\r lojalnościowego Nasza Stokrotka posiadający Kartę Dużej Rodziny uprawnieni sią\r do przypisania numeru Karty Dużej Rodziny do aplikacji Nasza Stokrotka.\r Poprawnie wprowadzony i zweryfikowany numer Karty Dużej Rodziny w aplikacji\r uprawnia do uzyskania następujących zniżek: Zniżka 10% na świeże owoce i\r warzywa. Zniżka 10% na chleby i bułki. Zniżka 10% na mleka w proszku i odżywki\r dla dzieci. Zniżka 10% na kaszki i kleiki dla dzieci. Zniżka 10% na przetwory\r owocowe i warzywno-mięsne dla dzieci. Zniżka 10% na pieluchy.\n*Ze zniżki 10% na mleka w\r proszku i odżywki dla dzieci wyłączone są preparaty do początkowego żywienia\r niemowląt w rozumieniu art. 3 pkt 27 ustawy z dnia 25 sierpnia 2006 r. o\r bezpieczeństwie żywności i żywienia (Dz.U. z 2023r. poz. 588 ze zm.).\n**Zniżki łączą się z częścią\r innych promocji w tym z ofertami i kuponami jednorazowymi dostępnymi wyłącznie\r dla posiadaczy aplikacji Nasza Stokrotka, szczegóły łączenia się zniżek\r określone są w regulaminie dostępnym na stronie internetowej Stokrotka.\n*** Szczegóły dotyczące\r przypisania numeru Karty Dużej Rodziny do aplikacji i korzystania z oferowanych\r zniżek określone są w regulaminie dostępnym na stronie internetowej Stokrotka.",
+     "from": "2026-05-01",
+     "to": null,
+     "kind": "percent",
+     "value": 10
+    }
+   ],
+   "bestDiscount": {
+    "kind": "percent",
+    "value": 10
+   },
+   "since": "2026-04-30"
+  },
+  {
+   "id": "11327680",
+   "entityId": "321045",
+   "name": "Stokrotka Sp. Z o.o.",
+   "entityName": "Stokrotka Sp. Z o.o.",
+   "logoId": "1470576",
+   "categories": [
+    {
+     "name": "Żywność",
+     "subcategories": [
+      "Sklepy"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Dzielna 7A",
+    "postalCode": "54-152",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.13782,
+    "lng": 16.97143
+   },
+   "phone": "81 8889200",
+   "email": "STOKROTKA@STOKROTKA.PL",
+   "website": "https://www.stokrotka.pl",
+   "discounts": [
+    {
+     "text": "Uczestnicy Programu\r lojalnościowego Nasza Stokrotka posiadający Kartę Dużej Rodziny uprawnieni sią\r do przypisania numeru Karty Dużej Rodziny do aplikacji Nasza Stokrotka.\r Poprawnie wprowadzony i zweryfikowany numer Karty Dużej Rodziny w aplikacji\r uprawnia do uzyskania następujących zniżek: Zniżka 10% na świeże owoce i\r warzywa. Zniżka 10% na chleby i bułki. Zniżka 10% na mleka w proszku i odżywki\r dla dzieci. Zniżka 10% na kaszki i kleiki dla dzieci. Zniżka 10% na przetwory\r owocowe i warzywno-mięsne dla dzieci. Zniżka 10% na pieluchy.\n*Ze zniżki 10% na mleka w\r proszku i odżywki dla dzieci wyłączone są preparaty do początkowego żywienia\r niemowląt w rozumieniu art. 3 pkt 27 ustawy z dnia 25 sierpnia 2006 r. o\r bezpieczeństwie żywności i żywienia (Dz.U. z 2023r. poz. 588 ze zm.).\n**Zniżki łączą się z częścią\r innych promocji w tym z ofertami i kuponami jednorazowymi dostępnymi wyłącznie\r dla posiadaczy aplikacji Nasza Stokrotka, szczegóły łączenia się zniżek\r określone są w regulaminie dostępnym na stronie internetowej Stokrotka.\n*** Szczegóły dotyczące\r przypisania numeru Karty Dużej Rodziny do aplikacji i korzystania z oferowanych\r zniżek określone są w regulaminie dostępnym na stronie internetowej Stokrotka.",
+     "from": "2026-05-01",
+     "to": null,
+     "kind": "percent",
+     "value": 10
+    }
+   ],
+   "bestDiscount": {
+    "kind": "percent",
+    "value": 10
+   },
+   "since": "2026-04-30"
+  },
+  {
+   "id": "11327718",
+   "entityId": "321045",
+   "name": "Stokrotka Sp. Z o.o.",
+   "entityName": "Stokrotka Sp. Z o.o.",
+   "logoId": "1470614",
+   "categories": [
+    {
+     "name": "Żywność",
+     "subcategories": [
+      "Sklepy"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Żernicka 210",
+    "postalCode": "54-510",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.12306,
+    "lng": 16.92517
+   },
+   "phone": "81 8889200",
+   "email": "STOKROTKA@STOKROTKA.PL",
+   "website": "https://www.stokrotka.pl",
+   "discounts": [
+    {
+     "text": "Uczestnicy Programu\r lojalnościowego Nasza Stokrotka posiadający Kartę Dużej Rodziny uprawnieni sią\r do przypisania numeru Karty Dużej Rodziny do aplikacji Nasza Stokrotka.\r Poprawnie wprowadzony i zweryfikowany numer Karty Dużej Rodziny w aplikacji\r uprawnia do uzyskania następujących zniżek: Zniżka 10% na świeże owoce i\r warzywa. Zniżka 10% na chleby i bułki. Zniżka 10% na mleka w proszku i odżywki\r dla dzieci. Zniżka 10% na kaszki i kleiki dla dzieci. Zniżka 10% na przetwory\r owocowe i warzywno-mięsne dla dzieci. Zniżka 10% na pieluchy.\n*Ze zniżki 10% na mleka w\r proszku i odżywki dla dzieci wyłączone są preparaty do początkowego żywienia\r niemowląt w rozumieniu art. 3 pkt 27 ustawy z dnia 25 sierpnia 2006 r. o\r bezpieczeństwie żywności i żywienia (Dz.U. z 2023r. poz. 588 ze zm.).\n**Zniżki łączą się z częścią\r innych promocji w tym z ofertami i kuponami jednorazowymi dostępnymi wyłącznie\r dla posiadaczy aplikacji Nasza Stokrotka, szczegóły łączenia się zniżek\r określone są w regulaminie dostępnym na stronie internetowej Stokrotka.\n*** Szczegóły dotyczące\r przypisania numeru Karty Dużej Rodziny do aplikacji i korzystania z oferowanych\r zniżek określone są w regulaminie dostępnym na stronie internetowej Stokrotka.",
+     "from": "2026-05-01",
+     "to": null,
+     "kind": "percent",
+     "value": 10
+    }
+   ],
+   "bestDiscount": {
+    "kind": "percent",
+    "value": 10
+   },
+   "since": "2026-04-30"
+  },
+  {
+   "id": "11328044",
+   "entityId": "321045",
+   "name": "Stokrotka Sp. Z o.o.",
+   "entityName": "Stokrotka Sp. Z o.o.",
+   "logoId": "1470941",
+   "categories": [
+    {
+     "name": "Żywność",
+     "subcategories": [
+      "Sklepy"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Kiełczowska 70",
+    "postalCode": "51-315",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.14607,
+    "lng": 17.13552
+   },
+   "phone": "81 8889200",
+   "email": "STOKROTKA@STOKROTKA.PL",
+   "website": "https://www.stokrotka.pl",
+   "discounts": [
+    {
+     "text": "Uczestnicy Programu\r lojalnościowego Nasza Stokrotka posiadający Kartę Dużej Rodziny uprawnieni sią\r do przypisania numeru Karty Dużej Rodziny do aplikacji Nasza Stokrotka.\r Poprawnie wprowadzony i zweryfikowany numer Karty Dużej Rodziny w aplikacji\r uprawnia do uzyskania następujących zniżek: Zniżka 10% na świeże owoce i\r warzywa. Zniżka 10% na chleby i bułki. Zniżka 10% na mleka w proszku i odżywki\r dla dzieci. Zniżka 10% na kaszki i kleiki dla dzieci. Zniżka 10% na przetwory\r owocowe i warzywno-mięsne dla dzieci. Zniżka 10% na pieluchy.\n*Ze zniżki 10% na mleka w\r proszku i odżywki dla dzieci wyłączone są preparaty do początkowego żywienia\r niemowląt w rozumieniu art. 3 pkt 27 ustawy z dnia 25 sierpnia 2006 r. o\r bezpieczeństwie żywności i żywienia (Dz.U. z 2023r. poz. 588 ze zm.).\n**Zniżki łączą się z częścią\r innych promocji w tym z ofertami i kuponami jednorazowymi dostępnymi wyłącznie\r dla posiadaczy aplikacji Nasza Stokrotka, szczegóły łączenia się zniżek\r określone są w regulaminie dostępnym na stronie internetowej Stokrotka.\n*** Szczegóły dotyczące\r przypisania numeru Karty Dużej Rodziny do aplikacji i korzystania z oferowanych\r zniżek określone są w regulaminie dostępnym na stronie internetowej Stokrotka.",
+     "from": "2026-05-01",
+     "to": null,
+     "kind": "percent",
+     "value": 10
+    }
+   ],
+   "bestDiscount": {
+    "kind": "percent",
+    "value": 10
+   },
+   "since": "2026-04-30"
+  },
+  {
+   "id": "11328768",
+   "entityId": "321045",
+   "name": "Stokrotka Sp. Z o.o.",
+   "entityName": "Stokrotka Sp. Z o.o.",
+   "logoId": "1471665",
+   "categories": [
+    {
+     "name": "Żywność",
+     "subcategories": [
+      "Sklepy"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Dzielna 7A",
+    "postalCode": "54-152",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.13782,
+    "lng": 16.97143
+   },
+   "phone": "81 8889200",
+   "email": "STOKROTKA@STOKROTKA.PL",
+   "website": "https://www.stokrotka.pl",
+   "discounts": [
+    {
+     "text": "Uczestnicy Programu\r lojalnościowego Nasza Stokrotka posiadający Kartę Dużej Rodziny uprawnieni sią\r do przypisania numeru Karty Dużej Rodziny do aplikacji Nasza Stokrotka.\r Poprawnie wprowadzony i zweryfikowany numer Karty Dużej Rodziny w aplikacji\r uprawnia do uzyskania następujących zniżek: Zniżka 10% na świeże owoce i\r warzywa. Zniżka 10% na chleby i bułki. Zniżka 10% na mleka w proszku i odżywki\r dla dzieci. Zniżka 10% na kaszki i kleiki dla dzieci. Zniżka 10% na przetwory\r owocowe i warzywno-mięsne dla dzieci. Zniżka 10% na pieluchy.\n*Ze zniżki 10% na mleka w\r proszku i odżywki dla dzieci wyłączone są preparaty do początkowego żywienia\r niemowląt w rozumieniu art. 3 pkt 27 ustawy z dnia 25 sierpnia 2006 r. o\r bezpieczeństwie żywności i żywienia (Dz.U. z 2023r. poz. 588 ze zm.).\n**Zniżki łączą się z częścią\r innych promocji w tym z ofertami i kuponami jednorazowymi dostępnymi wyłącznie\r dla posiadaczy aplikacji Nasza Stokrotka, szczegóły łączenia się zniżek\r określone są w regulaminie dostępnym na stronie internetowej Stokrotka.\n*** Szczegóły dotyczące\r przypisania numeru Karty Dużej Rodziny do aplikacji i korzystania z oferowanych\r zniżek określone są w regulaminie dostępnym na stronie internetowej Stokrotka.",
+     "from": "2026-05-01",
+     "to": null,
+     "kind": "percent",
+     "value": 10
+    }
+   ],
+   "bestDiscount": {
+    "kind": "percent",
+    "value": 10
+   },
+   "since": "2026-04-30"
+  },
+  {
    "id": "11325152",
    "entityId": "321045",
    "name": "Stokrotka Sp. Z o.o.",
@@ -45021,90 +45231,6 @@
    "since": "2026-04-30"
   },
   {
-   "id": "11328209",
-   "entityId": "321045",
-   "name": "Stokrotka Sp. Z o.o.",
-   "entityName": "Stokrotka Sp. Z o.o.",
-   "logoId": "1471106",
-   "categories": [
-    {
-     "name": "Żywność",
-     "subcategories": [
-      "Sklepy"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Wapienna 35",
-    "postalCode": "50-518",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.08746,
-    "lng": 17.04211
-   },
-   "phone": "81 8889200",
-   "email": "STOKROTKA@STOKROTKA.PL",
-   "website": "https://www.stokrotka.pl",
-   "discounts": [
-    {
-     "text": "Uczestnicy Programu\r lojalnościowego Nasza Stokrotka posiadający Kartę Dużej Rodziny uprawnieni sią\r do przypisania numeru Karty Dużej Rodziny do aplikacji Nasza Stokrotka.\r Poprawnie wprowadzony i zweryfikowany numer Karty Dużej Rodziny w aplikacji\r uprawnia do uzyskania następujących zniżek: Zniżka 10% na świeże owoce i\r warzywa. Zniżka 10% na chleby i bułki. Zniżka 10% na mleka w proszku i odżywki\r dla dzieci. Zniżka 10% na kaszki i kleiki dla dzieci. Zniżka 10% na przetwory\r owocowe i warzywno-mięsne dla dzieci. Zniżka 10% na pieluchy.\n*Ze zniżki 10% na mleka w\r proszku i odżywki dla dzieci wyłączone są preparaty do początkowego żywienia\r niemowląt w rozumieniu art. 3 pkt 27 ustawy z dnia 25 sierpnia 2006 r. o\r bezpieczeństwie żywności i żywienia (Dz.U. z 2023r. poz. 588 ze zm.).\n**Zniżki łączą się z częścią\r innych promocji w tym z ofertami i kuponami jednorazowymi dostępnymi wyłącznie\r dla posiadaczy aplikacji Nasza Stokrotka, szczegóły łączenia się zniżek\r określone są w regulaminie dostępnym na stronie internetowej Stokrotka.\n*** Szczegóły dotyczące\r przypisania numeru Karty Dużej Rodziny do aplikacji i korzystania z oferowanych\r zniżek określone są w regulaminie dostępnym na stronie internetowej Stokrotka.",
-     "from": "2026-05-01",
-     "to": null,
-     "kind": "percent",
-     "value": 10
-    }
-   ],
-   "bestDiscount": {
-    "kind": "percent",
-    "value": 10
-   },
-   "since": "2026-04-30"
-  },
-  {
-   "id": "11328768",
-   "entityId": "321045",
-   "name": "Stokrotka Sp. Z o.o.",
-   "entityName": "Stokrotka Sp. Z o.o.",
-   "logoId": "1471665",
-   "categories": [
-    {
-     "name": "Żywność",
-     "subcategories": [
-      "Sklepy"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Dzielna 7A",
-    "postalCode": "54-152",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.13782,
-    "lng": 16.97143
-   },
-   "phone": "81 8889200",
-   "email": "STOKROTKA@STOKROTKA.PL",
-   "website": "https://www.stokrotka.pl",
-   "discounts": [
-    {
-     "text": "Uczestnicy Programu\r lojalnościowego Nasza Stokrotka posiadający Kartę Dużej Rodziny uprawnieni sią\r do przypisania numeru Karty Dużej Rodziny do aplikacji Nasza Stokrotka.\r Poprawnie wprowadzony i zweryfikowany numer Karty Dużej Rodziny w aplikacji\r uprawnia do uzyskania następujących zniżek: Zniżka 10% na świeże owoce i\r warzywa. Zniżka 10% na chleby i bułki. Zniżka 10% na mleka w proszku i odżywki\r dla dzieci. Zniżka 10% na kaszki i kleiki dla dzieci. Zniżka 10% na przetwory\r owocowe i warzywno-mięsne dla dzieci. Zniżka 10% na pieluchy.\n*Ze zniżki 10% na mleka w\r proszku i odżywki dla dzieci wyłączone są preparaty do początkowego żywienia\r niemowląt w rozumieniu art. 3 pkt 27 ustawy z dnia 25 sierpnia 2006 r. o\r bezpieczeństwie żywności i żywienia (Dz.U. z 2023r. poz. 588 ze zm.).\n**Zniżki łączą się z częścią\r innych promocji w tym z ofertami i kuponami jednorazowymi dostępnymi wyłącznie\r dla posiadaczy aplikacji Nasza Stokrotka, szczegóły łączenia się zniżek\r określone są w regulaminie dostępnym na stronie internetowej Stokrotka.\n*** Szczegóły dotyczące\r przypisania numeru Karty Dużej Rodziny do aplikacji i korzystania z oferowanych\r zniżek określone są w regulaminie dostępnym na stronie internetowej Stokrotka.",
-     "from": "2026-05-01",
-     "to": null,
-     "kind": "percent",
-     "value": 10
-    }
-   ],
-   "bestDiscount": {
-    "kind": "percent",
-    "value": 10
-   },
-   "since": "2026-04-30"
-  },
-  {
    "id": "11327441",
    "entityId": "321045",
    "name": "Stokrotka Sp. Z o.o.",
@@ -45127,216 +45253,6 @@
    "location": {
     "lat": 51.09707,
     "lng": 16.951
-   },
-   "phone": "81 8889200",
-   "email": "STOKROTKA@STOKROTKA.PL",
-   "website": "https://www.stokrotka.pl",
-   "discounts": [
-    {
-     "text": "Uczestnicy Programu\r lojalnościowego Nasza Stokrotka posiadający Kartę Dużej Rodziny uprawnieni sią\r do przypisania numeru Karty Dużej Rodziny do aplikacji Nasza Stokrotka.\r Poprawnie wprowadzony i zweryfikowany numer Karty Dużej Rodziny w aplikacji\r uprawnia do uzyskania następujących zniżek: Zniżka 10% na świeże owoce i\r warzywa. Zniżka 10% na chleby i bułki. Zniżka 10% na mleka w proszku i odżywki\r dla dzieci. Zniżka 10% na kaszki i kleiki dla dzieci. Zniżka 10% na przetwory\r owocowe i warzywno-mięsne dla dzieci. Zniżka 10% na pieluchy.\n*Ze zniżki 10% na mleka w\r proszku i odżywki dla dzieci wyłączone są preparaty do początkowego żywienia\r niemowląt w rozumieniu art. 3 pkt 27 ustawy z dnia 25 sierpnia 2006 r. o\r bezpieczeństwie żywności i żywienia (Dz.U. z 2023r. poz. 588 ze zm.).\n**Zniżki łączą się z częścią\r innych promocji w tym z ofertami i kuponami jednorazowymi dostępnymi wyłącznie\r dla posiadaczy aplikacji Nasza Stokrotka, szczegóły łączenia się zniżek\r określone są w regulaminie dostępnym na stronie internetowej Stokrotka.\n*** Szczegóły dotyczące\r przypisania numeru Karty Dużej Rodziny do aplikacji i korzystania z oferowanych\r zniżek określone są w regulaminie dostępnym na stronie internetowej Stokrotka.",
-     "from": "2026-05-01",
-     "to": null,
-     "kind": "percent",
-     "value": 10
-    }
-   ],
-   "bestDiscount": {
-    "kind": "percent",
-    "value": 10
-   },
-   "since": "2026-04-30"
-  },
-  {
-   "id": "11328242",
-   "entityId": "321045",
-   "name": "Stokrotka Sp. Z o.o.",
-   "entityName": "Stokrotka Sp. Z o.o.",
-   "logoId": "1471139",
-   "categories": [
-    {
-     "name": "Żywność",
-     "subcategories": [
-      "Sklepy"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Krzemieniecka 125",
-    "postalCode": "54-613",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.09707,
-    "lng": 16.951
-   },
-   "phone": "81 8889200",
-   "email": "STOKROTKA@STOKROTKA.PL",
-   "website": "https://www.stokrotka.pl",
-   "discounts": [
-    {
-     "text": "Uczestnicy Programu\r lojalnościowego Nasza Stokrotka posiadający Kartę Dużej Rodziny uprawnieni sią\r do przypisania numeru Karty Dużej Rodziny do aplikacji Nasza Stokrotka.\r Poprawnie wprowadzony i zweryfikowany numer Karty Dużej Rodziny w aplikacji\r uprawnia do uzyskania następujących zniżek: Zniżka 10% na świeże owoce i\r warzywa. Zniżka 10% na chleby i bułki. Zniżka 10% na mleka w proszku i odżywki\r dla dzieci. Zniżka 10% na kaszki i kleiki dla dzieci. Zniżka 10% na przetwory\r owocowe i warzywno-mięsne dla dzieci. Zniżka 10% na pieluchy.\n*Ze zniżki 10% na mleka w\r proszku i odżywki dla dzieci wyłączone są preparaty do początkowego żywienia\r niemowląt w rozumieniu art. 3 pkt 27 ustawy z dnia 25 sierpnia 2006 r. o\r bezpieczeństwie żywności i żywienia (Dz.U. z 2023r. poz. 588 ze zm.).\n**Zniżki łączą się z częścią\r innych promocji w tym z ofertami i kuponami jednorazowymi dostępnymi wyłącznie\r dla posiadaczy aplikacji Nasza Stokrotka, szczegóły łączenia się zniżek\r określone są w regulaminie dostępnym na stronie internetowej Stokrotka.\n*** Szczegóły dotyczące\r przypisania numeru Karty Dużej Rodziny do aplikacji i korzystania z oferowanych\r zniżek określone są w regulaminie dostępnym na stronie internetowej Stokrotka.",
-     "from": "2026-05-01",
-     "to": null,
-     "kind": "percent",
-     "value": 10
-    }
-   ],
-   "bestDiscount": {
-    "kind": "percent",
-    "value": 10
-   },
-   "since": "2026-04-30"
-  },
-  {
-   "id": "11329047",
-   "entityId": "321045",
-   "name": "Stokrotka Sp. Z o.o.",
-   "entityName": "Stokrotka Sp. Z o.o.",
-   "logoId": "1471944",
-   "categories": [
-    {
-     "name": "Żywność",
-     "subcategories": [
-      "Sklepy"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Kiełczowska 70",
-    "postalCode": "51-315",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.14607,
-    "lng": 17.13552
-   },
-   "phone": "81 8889200",
-   "email": "STOKROTKA@STOKROTKA.PL",
-   "website": "https://www.stokrotka.pl",
-   "discounts": [
-    {
-     "text": "Uczestnicy Programu\r lojalnościowego Nasza Stokrotka posiadający Kartę Dużej Rodziny uprawnieni sią\r do przypisania numeru Karty Dużej Rodziny do aplikacji Nasza Stokrotka.\r Poprawnie wprowadzony i zweryfikowany numer Karty Dużej Rodziny w aplikacji\r uprawnia do uzyskania następujących zniżek: Zniżka 10% na świeże owoce i\r warzywa. Zniżka 10% na chleby i bułki. Zniżka 10% na mleka w proszku i odżywki\r dla dzieci. Zniżka 10% na kaszki i kleiki dla dzieci. Zniżka 10% na przetwory\r owocowe i warzywno-mięsne dla dzieci. Zniżka 10% na pieluchy.\n*Ze zniżki 10% na mleka w\r proszku i odżywki dla dzieci wyłączone są preparaty do początkowego żywienia\r niemowląt w rozumieniu art. 3 pkt 27 ustawy z dnia 25 sierpnia 2006 r. o\r bezpieczeństwie żywności i żywienia (Dz.U. z 2023r. poz. 588 ze zm.).\n**Zniżki łączą się z częścią\r innych promocji w tym z ofertami i kuponami jednorazowymi dostępnymi wyłącznie\r dla posiadaczy aplikacji Nasza Stokrotka, szczegóły łączenia się zniżek\r określone są w regulaminie dostępnym na stronie internetowej Stokrotka.\n*** Szczegóły dotyczące\r przypisania numeru Karty Dużej Rodziny do aplikacji i korzystania z oferowanych\r zniżek określone są w regulaminie dostępnym na stronie internetowej Stokrotka.",
-     "from": "2026-05-01",
-     "to": null,
-     "kind": "percent",
-     "value": 10
-    }
-   ],
-   "bestDiscount": {
-    "kind": "percent",
-    "value": 10
-   },
-   "since": "2026-04-30"
-  },
-  {
-   "id": "11327680",
-   "entityId": "321045",
-   "name": "Stokrotka Sp. Z o.o.",
-   "entityName": "Stokrotka Sp. Z o.o.",
-   "logoId": "1470576",
-   "categories": [
-    {
-     "name": "Żywność",
-     "subcategories": [
-      "Sklepy"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Dzielna 7A",
-    "postalCode": "54-152",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.13782,
-    "lng": 16.97143
-   },
-   "phone": "81 8889200",
-   "email": "STOKROTKA@STOKROTKA.PL",
-   "website": "https://www.stokrotka.pl",
-   "discounts": [
-    {
-     "text": "Uczestnicy Programu\r lojalnościowego Nasza Stokrotka posiadający Kartę Dużej Rodziny uprawnieni sią\r do przypisania numeru Karty Dużej Rodziny do aplikacji Nasza Stokrotka.\r Poprawnie wprowadzony i zweryfikowany numer Karty Dużej Rodziny w aplikacji\r uprawnia do uzyskania następujących zniżek: Zniżka 10% na świeże owoce i\r warzywa. Zniżka 10% na chleby i bułki. Zniżka 10% na mleka w proszku i odżywki\r dla dzieci. Zniżka 10% na kaszki i kleiki dla dzieci. Zniżka 10% na przetwory\r owocowe i warzywno-mięsne dla dzieci. Zniżka 10% na pieluchy.\n*Ze zniżki 10% na mleka w\r proszku i odżywki dla dzieci wyłączone są preparaty do początkowego żywienia\r niemowląt w rozumieniu art. 3 pkt 27 ustawy z dnia 25 sierpnia 2006 r. o\r bezpieczeństwie żywności i żywienia (Dz.U. z 2023r. poz. 588 ze zm.).\n**Zniżki łączą się z częścią\r innych promocji w tym z ofertami i kuponami jednorazowymi dostępnymi wyłącznie\r dla posiadaczy aplikacji Nasza Stokrotka, szczegóły łączenia się zniżek\r określone są w regulaminie dostępnym na stronie internetowej Stokrotka.\n*** Szczegóły dotyczące\r przypisania numeru Karty Dużej Rodziny do aplikacji i korzystania z oferowanych\r zniżek określone są w regulaminie dostępnym na stronie internetowej Stokrotka.",
-     "from": "2026-05-01",
-     "to": null,
-     "kind": "percent",
-     "value": 10
-    }
-   ],
-   "bestDiscount": {
-    "kind": "percent",
-    "value": 10
-   },
-   "since": "2026-04-30"
-  },
-  {
-   "id": "11327718",
-   "entityId": "321045",
-   "name": "Stokrotka Sp. Z o.o.",
-   "entityName": "Stokrotka Sp. Z o.o.",
-   "logoId": "1470614",
-   "categories": [
-    {
-     "name": "Żywność",
-     "subcategories": [
-      "Sklepy"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Żernicka 210",
-    "postalCode": "54-510",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.12306,
-    "lng": 16.92517
-   },
-   "phone": "81 8889200",
-   "email": "STOKROTKA@STOKROTKA.PL",
-   "website": "https://www.stokrotka.pl",
-   "discounts": [
-    {
-     "text": "Uczestnicy Programu\r lojalnościowego Nasza Stokrotka posiadający Kartę Dużej Rodziny uprawnieni sią\r do przypisania numeru Karty Dużej Rodziny do aplikacji Nasza Stokrotka.\r Poprawnie wprowadzony i zweryfikowany numer Karty Dużej Rodziny w aplikacji\r uprawnia do uzyskania następujących zniżek: Zniżka 10% na świeże owoce i\r warzywa. Zniżka 10% na chleby i bułki. Zniżka 10% na mleka w proszku i odżywki\r dla dzieci. Zniżka 10% na kaszki i kleiki dla dzieci. Zniżka 10% na przetwory\r owocowe i warzywno-mięsne dla dzieci. Zniżka 10% na pieluchy.\n*Ze zniżki 10% na mleka w\r proszku i odżywki dla dzieci wyłączone są preparaty do początkowego żywienia\r niemowląt w rozumieniu art. 3 pkt 27 ustawy z dnia 25 sierpnia 2006 r. o\r bezpieczeństwie żywności i żywienia (Dz.U. z 2023r. poz. 588 ze zm.).\n**Zniżki łączą się z częścią\r innych promocji w tym z ofertami i kuponami jednorazowymi dostępnymi wyłącznie\r dla posiadaczy aplikacji Nasza Stokrotka, szczegóły łączenia się zniżek\r określone są w regulaminie dostępnym na stronie internetowej Stokrotka.\n*** Szczegóły dotyczące\r przypisania numeru Karty Dużej Rodziny do aplikacji i korzystania z oferowanych\r zniżek określone są w regulaminie dostępnym na stronie internetowej Stokrotka.",
-     "from": "2026-05-01",
-     "to": null,
-     "kind": "percent",
-     "value": 10
-    }
-   ],
-   "bestDiscount": {
-    "kind": "percent",
-    "value": 10
-   },
-   "since": "2026-04-30"
-  },
-  {
-   "id": "11328044",
-   "entityId": "321045",
-   "name": "Stokrotka Sp. Z o.o.",
-   "entityName": "Stokrotka Sp. Z o.o.",
-   "logoId": "1470941",
-   "categories": [
-    {
-     "name": "Żywność",
-     "subcategories": [
-      "Sklepy"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Kiełczowska 70",
-    "postalCode": "51-315",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.14607,
-    "lng": 17.13552
    },
    "phone": "81 8889200",
    "email": "STOKROTKA@STOKROTKA.PL",
@@ -45446,6 +45362,90 @@
    "name": "Stokrotka Sp. Z o.o.",
    "entityName": "Stokrotka Sp. Z o.o.",
    "logoId": "1470197",
+   "categories": [
+    {
+     "name": "Żywność",
+     "subcategories": [
+      "Sklepy"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Wapienna 35",
+    "postalCode": "50-518",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.08746,
+    "lng": 17.04211
+   },
+   "phone": "81 8889200",
+   "email": "STOKROTKA@STOKROTKA.PL",
+   "website": "https://www.stokrotka.pl",
+   "discounts": [
+    {
+     "text": "Uczestnicy Programu\r lojalnościowego Nasza Stokrotka posiadający Kartę Dużej Rodziny uprawnieni sią\r do przypisania numeru Karty Dużej Rodziny do aplikacji Nasza Stokrotka.\r Poprawnie wprowadzony i zweryfikowany numer Karty Dużej Rodziny w aplikacji\r uprawnia do uzyskania następujących zniżek: Zniżka 10% na świeże owoce i\r warzywa. Zniżka 10% na chleby i bułki. Zniżka 10% na mleka w proszku i odżywki\r dla dzieci. Zniżka 10% na kaszki i kleiki dla dzieci. Zniżka 10% na przetwory\r owocowe i warzywno-mięsne dla dzieci. Zniżka 10% na pieluchy.\n*Ze zniżki 10% na mleka w\r proszku i odżywki dla dzieci wyłączone są preparaty do początkowego żywienia\r niemowląt w rozumieniu art. 3 pkt 27 ustawy z dnia 25 sierpnia 2006 r. o\r bezpieczeństwie żywności i żywienia (Dz.U. z 2023r. poz. 588 ze zm.).\n**Zniżki łączą się z częścią\r innych promocji w tym z ofertami i kuponami jednorazowymi dostępnymi wyłącznie\r dla posiadaczy aplikacji Nasza Stokrotka, szczegóły łączenia się zniżek\r określone są w regulaminie dostępnym na stronie internetowej Stokrotka.\n*** Szczegóły dotyczące\r przypisania numeru Karty Dużej Rodziny do aplikacji i korzystania z oferowanych\r zniżek określone są w regulaminie dostępnym na stronie internetowej Stokrotka.",
+     "from": "2026-05-01",
+     "to": null,
+     "kind": "percent",
+     "value": 10
+    }
+   ],
+   "bestDiscount": {
+    "kind": "percent",
+    "value": 10
+   },
+   "since": "2026-04-30"
+  },
+  {
+   "id": "11329047",
+   "entityId": "321045",
+   "name": "Stokrotka Sp. Z o.o.",
+   "entityName": "Stokrotka Sp. Z o.o.",
+   "logoId": "1471944",
+   "categories": [
+    {
+     "name": "Żywność",
+     "subcategories": [
+      "Sklepy"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Kiełczowska 70",
+    "postalCode": "51-315",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.14607,
+    "lng": 17.13552
+   },
+   "phone": "81 8889200",
+   "email": "STOKROTKA@STOKROTKA.PL",
+   "website": "https://www.stokrotka.pl",
+   "discounts": [
+    {
+     "text": "Uczestnicy Programu\r lojalnościowego Nasza Stokrotka posiadający Kartę Dużej Rodziny uprawnieni sią\r do przypisania numeru Karty Dużej Rodziny do aplikacji Nasza Stokrotka.\r Poprawnie wprowadzony i zweryfikowany numer Karty Dużej Rodziny w aplikacji\r uprawnia do uzyskania następujących zniżek: Zniżka 10% na świeże owoce i\r warzywa. Zniżka 10% na chleby i bułki. Zniżka 10% na mleka w proszku i odżywki\r dla dzieci. Zniżka 10% na kaszki i kleiki dla dzieci. Zniżka 10% na przetwory\r owocowe i warzywno-mięsne dla dzieci. Zniżka 10% na pieluchy.\n*Ze zniżki 10% na mleka w\r proszku i odżywki dla dzieci wyłączone są preparaty do początkowego żywienia\r niemowląt w rozumieniu art. 3 pkt 27 ustawy z dnia 25 sierpnia 2006 r. o\r bezpieczeństwie żywności i żywienia (Dz.U. z 2023r. poz. 588 ze zm.).\n**Zniżki łączą się z częścią\r innych promocji w tym z ofertami i kuponami jednorazowymi dostępnymi wyłącznie\r dla posiadaczy aplikacji Nasza Stokrotka, szczegóły łączenia się zniżek\r określone są w regulaminie dostępnym na stronie internetowej Stokrotka.\n*** Szczegóły dotyczące\r przypisania numeru Karty Dużej Rodziny do aplikacji i korzystania z oferowanych\r zniżek określone są w regulaminie dostępnym na stronie internetowej Stokrotka.",
+     "from": "2026-05-01",
+     "to": null,
+     "kind": "percent",
+     "value": 10
+    }
+   ],
+   "bestDiscount": {
+    "kind": "percent",
+    "value": 10
+   },
+   "since": "2026-04-30"
+  },
+  {
+   "id": "11328209",
+   "entityId": "321045",
+   "name": "Stokrotka Sp. Z o.o.",
+   "entityName": "Stokrotka Sp. Z o.o.",
+   "logoId": "1471106",
    "categories": [
     {
      "name": "Żywność",
@@ -50223,6 +50223,48 @@
    "since": "2015-06-30"
   },
   {
+   "id": "11294830",
+   "entityId": "316601",
+   "name": "Bytom",
+   "entityName": "Vrg Spółka Akcyjna",
+   "logoId": "1440179",
+   "categories": [
+    {
+     "name": "Odzież i obuwie",
+     "subcategories": [
+      "Dla dorosłych"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Grunwaldzki 22",
+    "postalCode": "50-363",
+    "city": "Wrocław",
+    "district": "Wrocław"
+   },
+   "location": {
+    "lat": 51.11182,
+    "lng": 17.05997
+   },
+   "phone": "728542875",
+   "email": "WROCLAW.GRUNWALDZKI@BYTOM.COM.PL",
+   "website": "https://www.bytom.com.pl",
+   "discounts": [
+    {
+     "text": "10% zniżki od cen regularnych* na całość oferowanego asortymentu w salonach stacjonarnych Bytom oraz w sklepie internetowym marki Bytom funkcjonującym pod adresem www.bytom.com.pl *Ceny regularne oznaczają bazowe ceny detaliczne brutto obowiązujące w wyżej wymienionych salonach stacjonarnych, nie pomniejszone o wysokość innych zniżek udzielanych przez VRG S.A. Zniżki z tyłu posiadania Karty Dużej Rodziny nie łączą się ze zniżkami wynikającymi z innych akcji promocyjnych, ani z rabatem z tytułu funkcjonujących w VRG S.A. programów lojalnościowych dla stałych klientów. Powyższe zniżki nie dotyczą sklepów wyprzedażowych VRG S.A., oferujących asortyment już przeceniony (tzw. Outlety).",
+     "from": "2021-03-15",
+     "to": null,
+     "kind": "percent",
+     "value": 10
+    }
+   ],
+   "bestDiscount": {
+    "kind": "percent",
+    "value": 10
+   },
+   "since": "2021-03-14"
+  },
+  {
    "id": "11294828",
    "entityId": "316601",
    "name": "Bytom",
@@ -50294,90 +50336,6 @@
    "discounts": [
     {
      "text": "10% zniżki od cen regularnych* na całość oferowanego asortymentu w salonach stacjonarnych Bytom oraz w sklepie internetowym marki Bytom funkcjonującym pod adresem www.bytom.com.pl *Ceny regularne oznaczają bazowe ceny detaliczne brutto obowiązujące w wyżej wymienionych salonach stacjonarnych, nie pomniejszone o wysokość innych zniżek udzielanych przez VRG S.A. Zniżki z tyłu posiadania Karty Dużej Rodziny nie łączą się ze zniżkami wynikającymi z innych akcji promocyjnych, ani z rabatem z tytułu funkcjonujących w VRG S.A. programów lojalnościowych dla stałych klientów. Powyższe zniżki nie dotyczą sklepów wyprzedażowych VRG S.A., oferujących asortyment już przeceniony (tzw. Outlety).",
-     "from": "2021-03-15",
-     "to": null,
-     "kind": "percent",
-     "value": 10
-    }
-   ],
-   "bestDiscount": {
-    "kind": "percent",
-    "value": 10
-   },
-   "since": "2021-03-14"
-  },
-  {
-   "id": "11294830",
-   "entityId": "316601",
-   "name": "Bytom",
-   "entityName": "Vrg Spółka Akcyjna",
-   "logoId": "1440179",
-   "categories": [
-    {
-     "name": "Odzież i obuwie",
-     "subcategories": [
-      "Dla dorosłych"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Grunwaldzki 22",
-    "postalCode": "50-363",
-    "city": "Wrocław",
-    "district": "Wrocław"
-   },
-   "location": {
-    "lat": 51.11182,
-    "lng": 17.05997
-   },
-   "phone": "728542875",
-   "email": "WROCLAW.GRUNWALDZKI@BYTOM.COM.PL",
-   "website": "https://www.bytom.com.pl",
-   "discounts": [
-    {
-     "text": "10% zniżki od cen regularnych* na całość oferowanego asortymentu w salonach stacjonarnych Bytom oraz w sklepie internetowym marki Bytom funkcjonującym pod adresem www.bytom.com.pl *Ceny regularne oznaczają bazowe ceny detaliczne brutto obowiązujące w wyżej wymienionych salonach stacjonarnych, nie pomniejszone o wysokość innych zniżek udzielanych przez VRG S.A. Zniżki z tyłu posiadania Karty Dużej Rodziny nie łączą się ze zniżkami wynikającymi z innych akcji promocyjnych, ani z rabatem z tytułu funkcjonujących w VRG S.A. programów lojalnościowych dla stałych klientów. Powyższe zniżki nie dotyczą sklepów wyprzedażowych VRG S.A., oferujących asortyment już przeceniony (tzw. Outlety).",
-     "from": "2021-03-15",
-     "to": null,
-     "kind": "percent",
-     "value": 10
-    }
-   ],
-   "bestDiscount": {
-    "kind": "percent",
-    "value": 10
-   },
-   "since": "2021-03-14"
-  },
-  {
-   "id": "11294683",
-   "entityId": "316601",
-   "name": "Vistula",
-   "entityName": "Vrg Spółka Akcyjna",
-   "logoId": "1440032",
-   "categories": [
-    {
-     "name": "Odzież i obuwie",
-     "subcategories": [
-      "Dla dorosłych"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Czekoladowa 7/9",
-    "postalCode": "55-040",
-    "city": "Bielany Wrocławskie\n (Kobierzyce)",
-    "district": "wrocławski"
-   },
-   "location": {
-    "lat": 51.04751,
-    "lng": 16.96042
-   },
-   "phone": "794444611",
-   "email": "VISTULA.BIELANY@SKLEP.VISTULAWOLCZANKA.PL",
-   "website": "https://www.vistula.pl",
-   "discounts": [
-    {
-     "text": "10% zniżki od cen regularnych* na całość oferowanego asortymentu w salonach stacjonarnych Vistula oraz sklepie internetowym marki Vistula funkcjonującym pod adresem www.vistula.pl *Ceny regularne oznaczają bazowe ceny detaliczne brutto obowiązujące w wyżej wymienionych salonach stacjonarnych, nie pomniejszone o wysokość innych zniżek udzielanych przez VRG S.A. Zniżki z tyłu posiadania Karty Dużej Rodziny nie łączą się ze zniżkami wynikającymi z innych akcji promocyjnych, ani z rabatem z tytułu funkcjonujących w VRG S.A. programów lojalnościowych dla stałych klientów. Powyższe zniżki nie dotyczą sklepów wyprzedażowych VRG S.A., oferujących asortyment już przeceniony (tzw. Outlety).",
      "from": "2021-03-15",
      "to": null,
      "kind": "percent",
@@ -50559,6 +50517,48 @@
    "since": "2021-03-14"
   },
   {
+   "id": "11294683",
+   "entityId": "316601",
+   "name": "Vistula",
+   "entityName": "Vrg Spółka Akcyjna",
+   "logoId": "1440032",
+   "categories": [
+    {
+     "name": "Odzież i obuwie",
+     "subcategories": [
+      "Dla dorosłych"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Czekoladowa 7/9",
+    "postalCode": "55-040",
+    "city": "Bielany Wrocławskie\n (Kobierzyce)",
+    "district": "wrocławski"
+   },
+   "location": {
+    "lat": 51.04751,
+    "lng": 16.96042
+   },
+   "phone": "794444611",
+   "email": "VISTULA.BIELANY@SKLEP.VISTULAWOLCZANKA.PL",
+   "website": "https://www.vistula.pl",
+   "discounts": [
+    {
+     "text": "10% zniżki od cen regularnych* na całość oferowanego asortymentu w salonach stacjonarnych Vistula oraz sklepie internetowym marki Vistula funkcjonującym pod adresem www.vistula.pl *Ceny regularne oznaczają bazowe ceny detaliczne brutto obowiązujące w wyżej wymienionych salonach stacjonarnych, nie pomniejszone o wysokość innych zniżek udzielanych przez VRG S.A. Zniżki z tyłu posiadania Karty Dużej Rodziny nie łączą się ze zniżkami wynikającymi z innych akcji promocyjnych, ani z rabatem z tytułu funkcjonujących w VRG S.A. programów lojalnościowych dla stałych klientów. Powyższe zniżki nie dotyczą sklepów wyprzedażowych VRG S.A., oferujących asortyment już przeceniony (tzw. Outlety).",
+     "from": "2021-03-15",
+     "to": null,
+     "kind": "percent",
+     "value": 10
+    }
+   ],
+   "bestDiscount": {
+    "kind": "percent",
+    "value": 10
+   },
+   "since": "2021-03-14"
+  },
+  {
    "id": "11294754",
    "entityId": "316601",
    "name": "Wólczanka",
@@ -50641,90 +50641,6 @@
     "value": 10
    },
    "since": "2021-03-14"
-  },
-  {
-   "id": "11187018",
-   "entityId": "305864",
-   "name": "W.KRUK",
-   "entityName": "W. Kruk S.A.",
-   "logoId": "1342712",
-   "categories": [
-    {
-     "name": "Art.przemysłowe",
-     "subcategories": [
-      "Pozostałe"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Teatralny 12",
-    "postalCode": "41-800",
-    "city": "Zabrze",
-    "district": "Zabrze"
-   },
-   "location": {
-    "lat": 51.1095,
-    "lng": 17.052568
-   },
-   "phone": "661980196",
-   "email": "ZABRZE@WKRUK.PL",
-   "website": "https://www.wkruk.pl",
-   "discounts": [
-    {
-     "text": "12% zniżki na biżuterię i zegarki w cenie regularnej za minimum 149 zł za 1 sztukę (z wykluczeniem marek Rolex, Patek, Cartier, Omega i Amor)",
-     "from": "2021-04-02",
-     "to": null,
-     "kind": "percent",
-     "value": 12
-    }
-   ],
-   "bestDiscount": {
-    "kind": "percent",
-    "value": 12
-   },
-   "since": "2017-10-30"
-  },
-  {
-   "id": "11187020",
-   "entityId": "305864",
-   "name": "W.KRUK",
-   "entityName": "W. Kruk S.A.",
-   "logoId": "1342714",
-   "categories": [
-    {
-     "name": "Art.przemysłowe",
-     "subcategories": [
-      "Pozostałe"
-     ]
-    }
-   ],
-   "address": {
-    "street": "Powstańców Wielkopolskich 99",
-    "postalCode": "64-920",
-    "city": "Piła",
-    "district": "Piła"
-   },
-   "location": {
-    "lat": 51.1196,
-    "lng": 16.9911
-   },
-   "phone": "570639664",
-   "email": "PILA@WKRUK.PL",
-   "website": "https://www.wkruk.pl",
-   "discounts": [
-    {
-     "text": "12% zniżki na biżuterię i zegarki w cenie regularnej za minimum 149 zł za 1 sztukę (z wykluczeniem marek Rolex, Patek, Cartier, Omega i Amor)",
-     "from": "2021-04-02",
-     "to": null,
-     "kind": "percent",
-     "value": 12
-    }
-   ],
-   "bestDiscount": {
-    "kind": "percent",
-    "value": 12
-   },
-   "since": "2017-10-30"
   },
   {
    "id": "11187068",
@@ -50962,6 +50878,90 @@
    },
    "phone": "726180090",
    "email": "BALTYCKA.ROLEX@WKRUK.PL",
+   "website": "https://www.wkruk.pl",
+   "discounts": [
+    {
+     "text": "12% zniżki na biżuterię i zegarki w cenie regularnej za minimum 149 zł za 1 sztukę (z wykluczeniem marek Rolex, Patek, Cartier, Omega i Amor)",
+     "from": "2021-04-02",
+     "to": null,
+     "kind": "percent",
+     "value": 12
+    }
+   ],
+   "bestDiscount": {
+    "kind": "percent",
+    "value": 12
+   },
+   "since": "2017-10-30"
+  },
+  {
+   "id": "11187018",
+   "entityId": "305864",
+   "name": "W.KRUK",
+   "entityName": "W. Kruk S.A.",
+   "logoId": "1342712",
+   "categories": [
+    {
+     "name": "Art.przemysłowe",
+     "subcategories": [
+      "Pozostałe"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Teatralny 12",
+    "postalCode": "41-800",
+    "city": "Zabrze",
+    "district": "Zabrze"
+   },
+   "location": {
+    "lat": 51.1095,
+    "lng": 17.052568
+   },
+   "phone": "661980196",
+   "email": "ZABRZE@WKRUK.PL",
+   "website": "https://www.wkruk.pl",
+   "discounts": [
+    {
+     "text": "12% zniżki na biżuterię i zegarki w cenie regularnej za minimum 149 zł za 1 sztukę (z wykluczeniem marek Rolex, Patek, Cartier, Omega i Amor)",
+     "from": "2021-04-02",
+     "to": null,
+     "kind": "percent",
+     "value": 12
+    }
+   ],
+   "bestDiscount": {
+    "kind": "percent",
+    "value": 12
+   },
+   "since": "2017-10-30"
+  },
+  {
+   "id": "11187020",
+   "entityId": "305864",
+   "name": "W.KRUK",
+   "entityName": "W. Kruk S.A.",
+   "logoId": "1342714",
+   "categories": [
+    {
+     "name": "Art.przemysłowe",
+     "subcategories": [
+      "Pozostałe"
+     ]
+    }
+   ],
+   "address": {
+    "street": "Powstańców Wielkopolskich 99",
+    "postalCode": "64-920",
+    "city": "Piła",
+    "district": "Piła"
+   },
+   "location": {
+    "lat": 51.1196,
+    "lng": 16.9911
+   },
+   "phone": "570639664",
+   "email": "PILA@WKRUK.PL",
    "website": "https://www.wkruk.pl",
    "discounts": [
     {
